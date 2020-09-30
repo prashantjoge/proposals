@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T13:52:25.614Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="trKN1ASVok5v-bs7PT2y" version="13.7.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-30T13:57:21.379Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="xwvTzW5dRmpFL1Bjv6eD" version="13.7.6" type="github" pages="7">
   <diagram id="CRtQ3g1pBiAru7IYaBMN" name="wf">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1074,7 +1074,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="New Arch" id="phfo9XYeQyBP4c2vjAsN">
-    <mxGraphModel dx="2272" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="wpZ35dJZMVisE_dKN1-d-0" />
         <mxCell id="wpZ35dJZMVisE_dKN1-d-1" parent="wpZ35dJZMVisE_dKN1-d-0" />
@@ -1502,16 +1502,30 @@
           <mxGeometry x="78" y="155" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cz7b-8PbaY2swvAqsVTO-0" value="&lt;ul&gt;&lt;li&gt;SMS Gateway&lt;/li&gt;&lt;li&gt;Payment Gateway&lt;/li&gt;&lt;li&gt;Email Gateway&lt;/li&gt;&lt;li&gt;Emirates ID / Company validations&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wpZ35dJZMVisE_dKN1-d-1">
-          <mxGeometry x="-745.75" y="779" width="175.75" height="20" as="geometry" />
+          <mxGeometry x="-747.09" y="784" width="175.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cz7b-8PbaY2swvAqsVTO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="wpZ35dJZMVisE_dKN1-d-1" source="cz7b-8PbaY2swvAqsVTO-0" target="cz7b-8PbaY2swvAqsVTO-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAmE6qlWs9qDZqg-QD3d-0" value="Tableau" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;align=left;image=https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J;" vertex="1" parent="wpZ35dJZMVisE_dKN1-d-1">
+          <mxGeometry x="-495.25" y="857.25" width="52.75" height="52.75" as="geometry" />
+        </mxCell>
+        <mxCell id="NAmE6qlWs9qDZqg-QD3d-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wpZ35dJZMVisE_dKN1-d-1" source="wpZ35dJZMVisE_dKN1-d-41" target="NAmE6qlWs9qDZqg-QD3d-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-390" y="890" as="sourcePoint" />
+            <mxPoint x="-340" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-475" y="710" />
+              <mxPoint x="-560" y="710" />
+              <mxPoint x="-560" y="884" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Ammo" id="XRM101kO1szzxxC6xUZl">
-    <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IfS-kk_s_84XIFXLoDbm-0" />
         <mxCell id="IfS-kk_s_84XIFXLoDbm-1" parent="IfS-kk_s_84XIFXLoDbm-0" />
