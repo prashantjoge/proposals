@@ -1,0 +1,114 @@
+Customer Loyalty is the inclination for an individual to favour a particular product, brand or service.  Getting people loyal to a brand was fairly straightforward - create a great product, market it well and offer stellar customer support. However, the digital explosion has made it harder than ever before for brands to engage and retain a loyal customer base. Today, a customer is bombarded with hundreds of communications from multiple brands with few differentiators.
+
+Gaining customer loyalty cannot be a one-off thing. A brand needs a focused and integrated plan to retain its best customers - put simply, it needs a customer loyalty program. A loyalty program typically involves giving customers free merchandise, early access to sales, products and coupons. Loyalty programs have been proven to be extremely successful in driving repeat sales for brands. The "Get With The Program" report states that all other things being equal, 72% of consumers will buy from retailer with a loyalty program over one without.
+
+Benefits Of Customer Loyalty Programs
+The primary objective of a loyalty program is to retain existing customers and encourage repeat purchases. An Accenture Report found that 66% of US consumers spent more on brands that they were emotionally connected or loyal to.
+
+Some interesting insights about the power of Loyalty Programs:
+70% of members consider Loyalty Programs to be part of their relationship with a company
+An effective loyalty program can increase a brand's market share by 20%
+84% of consumers said they are more likely to visit an online website with a loyalty program
+Some of the benefits of using Verabt's Loyalty program are
+
+
+
+Increase In Repeat Sales: When implemented correctly, our loyalty program capable of contributing upto 30% of the total revenue
+
+Builds A Healthy Relationship With Your Customers: Verbat incorporates personalization and experiential rewards into its loyalty program. The loyalty program is overlaid into the CRM system to offer highly personalized rewards to customers
+
+Increase AOV (Average Order Value): Our system include the AOV which is a simple but vital metric that reveals how much a customer typically spends every time they shop. Convincing an existing customer to spend more is easier with zero acquisition costs. Our loyalty program has been shown to increase the AOV from 13% to 35% 
+
+Increase customer retention: Verbat understands the importance of customer retention. Withhout a good customer retention rate, the cost of doing business will skyrocket with businesses ending up spending a fortune on acquisition costs. New customers often produce a  smaller AOV (new customers typically test the waters of a new brand with small value purchases). however retention is much easier since valuable data about customer affinities, purchase  journeys  and demographics can be used to offer personalized offers and rewards to nudge the customer.
+
+Improves Brand Perception: Our Loyaly program offers great insights about a customer (demographic,m purchase patterns, prodiuct preferences etc) compared to an invoice. The ability to combine our loyalty program with CRM platforms allows brands to combine data from multiple sources like social media, in-store and mobile applicationsto create a rich persona for every customer.
+
+Increase customer lifetime value (CLV): CLV is the total revenue a customer will generate over the course of their lifetime. It is a citical metric that needs ot be taken into account. It is closely related to Customer Loyalty (CL)
+
+diagram 1 & diagram 2
+
+The loyalty program that Verbat develops will take these metrics into consideration. Companies can increase their CLV by
+
+increasing the customer base 
+Increasing the # of repeat purchases per customer
+increase the retention age of customer
+increase profits per sale
+
+Fortunately the points discussed above falls into a customer loyalty segment namely: Retention Loyalty, Advocacy Loyalty & Purchasing Loyalty. These Customer Loyalty attributres are directly proportional to CLV's. By increasing CL one can increase CLV's.
+
+Our loyalty program aids you to increase
+
+Retention Loyalty, there by ensuring the customer interacts with the brand for a longer period of time
+Purchase Loyalty, there by increasimg the frequency of sales form a customer
+Advocasy Loyalty, there by it makes it easier to acquire more customers
+
+
+A Winning Loyalty Program 
+
+A good customer loyalty program can generate significant gains in recurring revenue for the business through higher AOV and repeat sales. Since our loyalty programs are purpose built to match the unique requirments of our clients, we reccomend the following supplimental features.
+
+Give customer the choice of opting for a physical card or an app-based loyalty solution
+
+Keep  the loyalty program unique to the brand instead of partnering with other brands or businesses
+
+Keep it simple - offer points for X currency spend and make it easy for people to track the points. Also, avoid long list of exclusions and fine print
+
+Include a sign up bonus for new members that offers free points of up to 50% of points of the next reward
+
+Implement achievable reward thresholds based on the average spend of the customers
+
+Offer a wider redemption choice which gives customers the freedom to redeem points on what they like
+
+Offer special 2X or 3X rewards on non-peak times of the week or month on slow moving products
+
+Make sure the rewards can be redeemed from the day a customer reaches a certain reward threshold. This will encourage repeat visits
+
+Offer special points with limited validity to encourage repeat business
+
+Communicate the benefits of the loyalty program across all customer touch points (e.g.:-app, in store, desktop etc.)
+
+Don’t limit point earns only to purchases; reward them for social sharing, brand promotions, reviews etc.
+
+Design loyalty programs around customers and what they value most - is it discounts? Is it personalized experiences? Or is it exclusivity?
+
+Always set a grace period on the expiry date of points so customers who may have missed a deadline can still save their points
+
+Always set goals for the loyalty program and measure them with a CRM
+
+Use personalization to understand what type of rewards resonate best with each customer personas
+
+Assess current customer satisfaction levels before implementing the loyalty program. This will help gauge its benefits much better.
+
+Customization of loyalty prorams based on points, tiers, fee, cashback, rewards
+
+Please note that since we are a botique software development shop, these features shall be implemented based on the unique needs of our clients.
+
+Metrics used in our Loyalty Program
+Customer Lifetime Value (CLV)
+Customer Lifetime Value (CLV) is simply the overall revenue contribution you can expect from a customer during his/her engagement with your brand. To calculate CLV, you need to first calculate the Customer Value
+diag3 and diag 4
+
+Redemption Rate
+diag 5
+Redemption Rate is a percentage which indicates at what rate are your customers are redeeming their loyalty points. A high redemption rate indicates that your customers are highly engaged with your loyalty program. A healthy benchmark is a 25% redemption rate; anything less than that and it indicates an issue with the redemption process of your loyalty program, i.e., your customers are earning loyalty points and are not spending them. Here's how you calculate the redemption rate of your loyalty program.
+
+Active Engagement Rate
+diag 6
+This ties in with Redemption Rate in that it measures the number of customers who are actively engaged with your loyalty program (through points earned and redeemed).
+
+Repeat Purchase Rate (RPR)
+diag7
+While CLV is a great way to measure the long term impact of your loyalty program, the Repeat Purchase Rate (RPR) gives you an overview of the short-midterm impact. The Repeat Purchase Rate (RPR) basically gives you the percentage of customers who have made more than one purchase for a period of 1 year. One of the primary objective of a loyalty program is to increase repeat purchases and thus measuring the RPR is critical for gauging the effectiveness of a reward program. Also, remember that the RPR has a major impact in increasing the Customer Lifetime Value (CLV)
+
+Artificial Intelligence & Machine Learning Powered Loyalty Programs
+Verbat realized that AI amd Machine Learning have the potentially revolutiuonize the retail and loyalty inductry. Loyalty is closely linked to customer experience and AI is becoming impressively accurate in predicting human behaviour and purchase patterns. Our Loyalty programs are currently focusing on the following aspects (This is a work iin progress)
+
+Predictive Insights
+Historically, customer data collected through loyalty programs have been used to target customers with relevant messages. However, with the help of AI and Machine Learning; brands can take this several notches up to predict customer behaviour and influence purchase patterns. Imagine getting real-time information of every customer who walks in to your store along with insights on what they are most likely to purchase. Advanced AI algorithms is capable of predicting human actions long before the thought even starts taking shape in the subject's mind.
+
+Prescriptive Analytics
+AI-powered insights can instantly give you a segment of customers who are more likely to spend more once they move into the next tier of your reward program. Now all you have to do is offer them 3X points on their next purchase as a special gift. Prescriptive analytics can be applied to a wide range of retail scenarios to reduce churn, increase conversion rates and improve overall customer experience.
+
+ 
+
+

@@ -1,0 +1,34 @@
+Basic Setup
+Splash Screen
+Candidate Module
+Candidate Login 
+Registration with facebook
+Registration with Linkd in
+Registration with Google
+Remember Me 
+Forgot Password
+Registration/Sign up
+ Personal Information 
+ Contact Details 
+ Education Details 
+ Work Experience 
+ Languages
+ Achievement and Activities 
+ Upload your video resume 
+Candidate Dashboard
+Notifications: 
+Job Listing and search
+Total View: 
+Interview Schedules
+ Short Listed
+ Interview Declined
+ Job Details 
+ Candidate Forum 
+ Candidate DMS 
+Employer Login
+  Employer Module
+Employer Registartion
+Help 
+Google Analytics 
+ Development and Api integration
+Membership Plan Details

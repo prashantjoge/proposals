@@ -1,0 +1,6 @@
+1.	Enable/Disable different sections/modules of the event requisition to so that they can included/excluded during event management process.
+2.	Configuration of organization calendar so that working days/hours along with holidays could be set for the year.
+3.	Configuration of approval matrix for event requisitions.
+4.	Configuration of timer for different kind of escalations.
+5.	Configuration of parameters for automating decision making process (sourcing, execution, billing decisions) of event requisition.
+If a user has requested a new request which is already in process of approval and the Admin changes the approval matrix for that event type then system shall consider the old approval matrix for inflight requests and follow new approval matrix for new requests that are made post the changes in the approval matrix.

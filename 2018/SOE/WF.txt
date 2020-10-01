@@ -1,0 +1,57 @@
+dubai courts need experts in different fields
+dubai courts collecting documents from consultants
+SOE will solicit the request for the courts and certify that the consultant is an expert
+
+workflow
+
+soe gets the documents from dubai courts
+they will upload the documents (standard info+ qualifications) document could be any format
+emirates id is the unique ID. certain fields are defined mandatory. 
+document list needs to be their so that the applicant is ready for review . Time limit of 15 days for verifieny the document. 
+on compleion of the verifying SOE will inform the candiddate  (test or training)
+
+SME training  provided by SOE
+
+test before or after training. If he cooses training or test... both has cash payments
+
+test can happen either in SOE or Dubai Courts. (payment online) payment gateway integration for training nad test.
+schedule  atime and date for test or training
+two types MCQ and case studies (writing test)
+
+after test 2nd .. soe can add comments 
+
+
+ and pass or fail the test (will have to undergo training annd take both test
+
+next  he will go for interview
+he can pass or fail the interview (gpo for training) 
+else he is an expert
+
+
+portal available ofr nexternal and internal users
+2 categories .. ind and org
+login area
+upload files in  order to settle a dispute
+emirates ID, phone , skype , email, phone
+dispute 
+uniq file no is generated
+file no is sent to the submitter
+
+verify that all documents are there
+SOE will verify the validity of the documents
+SOE will send the case to arbitrator
+arbitrator management for SOE
+SOE can add a person as an arbitrator
+view no of cases assigned to each arbitrator
+chief arbirtrator
+chief arb will receive the case and assign the case to a set of arbs
+the arbs will respond or not respond and they will set their fee.
+choef arb then makes the decision on who gets the acse
+assigned arb can download the case files
+
+SOE will schedule a meeting b/w the arb and the cleinet
+arb  will upload the mins of meeting
+if the case is resolved the chief arb will release the assigned arb fromj the case
+
+SOE will add their fees or commision to the assigned arb fees.
+clinets will pay the fee

@@ -1,0 +1,343 @@
+﻿{
+	"TaxBreezeID": "",
+	"PersonalDetails": {
+		"PersonalInformation": {
+			"FirstName": "",
+			"MiddleName": "",
+			"LastName": "",
+			"FathersName": "",
+			"EmailId": "",
+			"MobileNo": "",
+			"SecondaryMobileNo": "",
+			"LandlineNo": "",
+			"DateOfBirth": "",
+			"Gender": "",
+			"EmployerName": "",
+			"EmployerType": "",
+			"PanCardNumber": "",
+			"AadhaarCardNumberEnrollmentId": "",
+			"IfAvilablePassportNumber": ""
+		},
+		"Address": {
+			"FlatDoorBlockNo": "",
+			"PremisesBuildingVillage": "",
+			"RoadStreetPostOffice": "",
+			"AreaLocality": "",
+			"PinCode": "",
+			"TownCityDistrict": "",
+			"State": ""
+		},
+		"BankDetails": {
+			"PrimaryBankAccount": {
+				"AccountNumber": "",
+				"AccountType": "",
+				"NameOfBank": "",
+				"IFSCcode": ""
+			},
+			"AllOtherBankAccounts": [
+				{
+					"AccountNumber": "",
+					"AccountType": "",
+					"NameOfBank": "",
+					"IFSCcode": ""
+				}
+			]
+		},
+		"Assets&Liabilities": {
+			"ImmovableAsset": {
+				"IfImmovableAsset": "",
+				"ImmovableAssets": [
+					{
+						"Description": "",
+						"FlatDoorNo": "",
+						"NameOfPremise": "",
+						"RoadStreet": "",
+						"AreaLocality": "",
+						"State": "",
+						"Country": "",
+						"Pincode": "",
+						"Amount": ""
+					}
+				]
+			},
+			"MovableAsset": {
+				"JewelleryBullion": "",
+				"ArchaeologicalCollectionsDrawingsPaintingSculptureAnyArtWork": "",
+				"VehiclesYachtsBoatsAircrafts": "",
+				"Bank": "",
+				"SharesSecurities": "",
+				"InsurancePolicies": "",
+				"LoansAdvancesGiven": "",
+				"CashInHand": ""
+			},
+			"AssociationOfPersons":{
+				"AnyAOPAssets": "", 
+				"AssociationOfPersonsDetails":[
+				{					
+					"NameOfFirm": "",
+					"FlatDoorNo": "",
+					"NameOfPremise": "",
+					"RoadStreet": "",
+					"AreaLocality": "",
+					"State": "",
+					"Country": "",
+					"PINcode": "",
+					"PANoftheFirm": "",
+					"Assessee's Investment in Firm": ""					
+				}]
+			},
+			"ForeignAssets": [
+				{
+					"SelectForeignAsset": "",
+					"DocumentPassword": ""
+				}
+			]
+		}
+	},
+	"IncomeSources": {
+		"Salary": {
+			"Upload": [
+				{
+					"SelectForm16": "",
+					"DocumentPassword": ""
+				}
+			],
+			"IncomeFromSalary": {
+				"Form16PartBSalaryDetailsPaid": "",
+				"EmployerName": "",
+				"EmployerTypeCategory": ""
+			},
+			"TDSforSalary": {
+				"TANOfTheEmployer": "",
+				"TaxDeductedSourceOnSalary": ""
+			}
+		},
+		"OtherIncome": {
+			"Upload": [
+				{
+					"SelectDocument": "",
+					"DocumentPassword": ""
+				}
+			],
+			"Interest Income": {
+				"InterestIncome": "",
+				"OtherInterestIncome": ""
+			},
+			"Other Income": {
+				"AnyOtherIncome": ""
+			},
+			"ExemptIncome": {
+				"DividendEarned": "",
+				"ExemptInterestIncome": "",
+				"OtherMiscellaneous": ""
+			},
+			"Agriculture Income": {
+				"GrossAgricultureReceipt": "",
+				"ExpenditureOnAgriculture": "",
+				"UnabsorbedAgricultureLoss": ""
+			},
+			"Dependent Income": [
+				{
+					"Amount": "",
+					"PersonName": "",
+					"Relationship": "",
+					"NatureOfIncome": ""
+				}
+			],
+			"PFWithdrawelIncome&TaxRate": {
+				"PFAmount": "",
+				"TaxRate": ""
+			}
+		},
+		"HouseProperty": {
+			"HouseAddress": [
+				{
+					"FlatDoorBlockNumber": "",
+					"RoadStreet": "",
+					"State": "",
+					"PINCode": "",
+					"AreaLocality": "",
+					"TownCity": "",
+					"Country": ""
+				},
+			
+				"HousingLoanInterest": {
+					"ChooseProperty": "",
+					"IfAnyHousingLoanApplicableForProperty": "",
+					"IfAnyInterestPaidOnLoanSelfOccupiedProperty": "",
+					"Document": [
+						{
+							"SelectDocument":""
+						}
+					]
+				},
+				"PropertyOwership": [{
+					"ChooseProperty": "",
+					"IfYourPropertyIsCoOwned": "",
+					"OwnershipShareOfProperty": "",
+					"Name": "",
+					"PanNo": "",
+					"Share": ""
+				}]
+			]
+		},
+		"RentelProperty": {
+			"PropertyAddress": [
+				{
+					"FlatDoorBlockNumber": "",
+					"RoadStreet": "",
+					"State": "",
+					"PinCode": "",
+					"AreaLocality": "",
+					"TownCity": "",
+					"Country": ""
+				},			
+				"RentelPropertyIncome": {
+					"ChooseProperty": "",
+					"AnnualRentReceived": "",
+					"HouseTaxPaid": "",
+					"TenantName": "",
+					"PANOfTenant": ""
+				},
+				"InterestOnPaidHousingLoanRentelProperty": {
+					"ChooseProperty": "",
+					"IfAnyHousingloanApplicableOnProperty": "",
+					"InterestPaidRentalProperty": "",
+					"Document": [
+						{
+							"SelectDocument":""
+						}
+					]
+				},
+				"PropertyOwership": [{
+					"ChooseProperty": "",
+					"IfPropertyCoOwned": "",
+					"OwnershipShareOfTheProperty": "",
+					"Name": "",
+					"PAN": "",
+					"Share": ""
+				}],
+				"UnrealizedRent": {
+					"ChooseProperty": "",
+					"UnrealizedRentAmount": ""
+				}
+			]
+		},
+		"CapitalGain": {
+			"DetailOfSharesDebentures": [
+				{
+					"file": "",
+					"pwd": ""
+				}
+			],
+			"[DetailOfLandBuilding": [
+				{
+					"file": "",
+					"pwd": ""
+				}
+			],
+			"[DetailOfSaleOfOtherAsset": [
+				{
+					"file": "",
+					"pwd": ""
+				}
+			],
+			"[DetailOfSaleOfMutualFunds": [
+				{
+					"file": "",
+					"pwd": ""
+				}
+			]
+		}
+	},
+	"Deductions": {
+		"Section80": {
+			"Upload": [
+				{
+					"SelectYourDocument": "",
+					"EnterDocumentPassword": ""
+				}
+			],
+			"Section80C": {
+				"InvestmentCategoery": "",
+				"InvestmentAmound": ""
+			},
+			"Section80D": {
+				"MedicalInsurancePremiumYourSuposeChildren": "",
+				"PreventiveHealthCheckUpFeesYourSuposeChildren": "",
+				"MedicalInsurancePremiumParents": "",
+				"IfparentsHoldPolicySeniorCitizens": ""
+			},
+			"Section80TTA": {
+				"InterestEarnedSavingsBankAccount": ""
+			},
+			"Section80G": [
+				{
+					"NameOfDonee": "",
+					"DonationAmount": "",
+					"PANofDonee": "",
+					"LimitOfDeduction": "",
+					"QualifyingPercentage": "",
+					"PINcode": "",
+					"Address": "",
+					"Town/City": "",
+					"State": ""
+				}
+			]
+		},
+		"MoreDeductions": {
+			"Section80CCG": {
+				"Investment": ""
+			},
+			"Section80E": {
+				"HigherEducationLoanInterestInThisYear": ""
+			},
+			"Section 80 CCC": {
+				"ContributionAmountPensionPlanAnnuityFundSection80CCC": ""
+			},
+			"Section80CCD": {
+				"ContributionTowardsSection80CCD": "",
+				"EmployersContributionTowardsNPS": ""
+			},
+			"Section80GG": {
+				"RentPaidPerMonth": "",
+				"NumberOfMonthsRentPaid": ""
+			},
+			"Section80DDB": {
+				"MedicalTreatmentCostsForSection80DDB": "",
+				"AgeOfPersonDeductionBeingClaimed": ""
+			},
+			"Section80EE": {
+				"DeductionSection80EE": ""
+			},
+			"Section80QQB": {
+				"DeductionAmount": ""
+			},
+			"Section80RRB": {
+				"DeductionAmount": ""
+			},
+			"Section80GGA": {
+				"ContributionToResearch&Development": ""
+			},
+			"Section80GGC": {
+				"ContributionDonationsToPoliticalParty": ""
+			}
+		}
+	},
+	"TaxPaid": {
+		"Upload26As": [
+			{
+				"Select26ASDocument": "",
+				"DocumentPassword": ""
+			}
+		],
+		"ChallanDetails": [
+			{
+				"BSRcode": "",
+				"DateOfPayment": "",
+				"ChallanSrNo": "",
+				"TaxPaid": ""
+			}
+		]
+	}
+}

@@ -1,0 +1,381 @@
+﻿{
+"PersonalDetails": 
+  {
+  "PersonalInformation":
+                {
+                "FirstName":"",
+                "MiddleName":"",
+                 "LastName":"",
+				 "FathersName":"",
+				 "EmailId":"",
+				 "MobileNo":"",
+				 "SecondaryMobileNo":"",
+				 "LandlineNo":"",
+				 "DateOfBirth":"",
+				 "Gender":"",
+				 "EmployerName":"",
+				 "EmployerType":"",
+				 "PanCardNumber":"",
+				 "AadhaarCardNumber/EnrollmentId":"",
+				 "PassportNumber(If Avilable)":""
+                }
+  "Address":
+               {
+	              "Flat/Door/BlockNo":"",
+				  "Premises/Building/Village":"",
+				  "Road/Street/PostOffice":"",
+				  "Area/Locality":"",
+				  "PinCode":"",
+				  "Town/City/District":"",
+				  "State":""
+	           }
+  "BankDetails":
+               {
+			     "PrimaryBankAccount":
+				 {
+				   "AccountNumber":"",
+				   "AccountType":"",
+				   "NameOfBank":"",
+				   "IFSCcode":""
+				 }
+				 "AllOtherBankAccounts":
+                  {
+				    "AccountNumber":"",
+				   "AccountType":"",
+				   "NameOfBank":"",
+				   "IFSCcode":""
+				  }				 
+	           }
+    "Assets&Liabilities":
+      	       {
+			      "A.ImmovableAsset":
+				    {
+					   "Asset and Liability at the end of the year (applicable in a case where total income exceeds ₹50 lakh)"
+					   "Do you own any immovable asset?":""
+					   
+					   "Details of Immovable Assets":
+					         {
+							  "Description":"",
+							  "Flat/Door No":"",
+							  "NameOfPremise":"",
+							  "Road/Street":"",
+							  "Area/Locality":"",
+							  "State":"",
+							  "Country":"",
+							  "Pincode":"",
+							  "Amount":""
+							 }
+					}
+				  "B.MovableAsset":
+                    {
+					     "Description":
+						   {
+						     "Jewellery, bullion etc.":"",
+							 "Archaeological collections, drawings, painting, sculpture or any work of art":"",
+							 "Vehicles, yachts, boats and aircrafts":""
+						   }
+						  "Financial asset":
+						  {
+						    "(a) Bank (including all deposits)":"",
+							"(b) Shares and securities":"",
+							"(c) Insurance policies":"",
+							"(d) Loans and advances given":"",
+							"(e) Cash in hand":""
+						  }
+					}
+                  "C.AssociationOfPersons":
+                     {
+					    "Do you have any Interest held in the assets of a firm or association of persons (AOP) as a partner or member thereof?":"",
+						"NameOfFirm":"",
+						"Flat/Door/No":"",
+						"NameOfPremise":"",
+						"Road/Street":"",
+						"Area/Locality":"",
+						"State":"",
+						"Country":"",
+						"PINcode":"",
+						"PANoftheFirm":"",
+						"Assessee's Investment in Firm":"",
+						"Liability In relation to Assets at (A + B + C)":""
+					 }	
+                   "ForeignAssets":
+                     {
+					  "Select Foreign Asset Document":"",
+					  "Enter the document password":""
+					 }				   
+			   }
+  }
+"IncomeSources":
+ {
+  "Salary":
+    { 
+     "Upload":
+	   {
+	     "SelectYourForm16Documen":"",
+		 "EnterTheDocumentPassword":"",
+		 
+	   }
+	  "IncomeFromSalary":
+       {
+	     "Income Chargeable under the head 'Salaries'"
+		    "In your Form-16, find this information under Part-B - Details of Salary Paid (Heading 6)":"",
+		    "NameOfTheEmployer":"",
+		    "EmployerType/Category":""
+	   }
+      "TDSforSalary":
+       {
+	     "Tax Deducted at Source by Employer: Provide this information from your Form 16"
+		     "TANOfTheEmployer":"",
+		     "Tax Deducted At Source on Salary":""
+	   }
+   }
+  "OtherIncome":
+    {
+	    "Upload":
+		  {
+		     "Select document":"",
+			 "Enter the document password":""
+		  }
+		 "Interest Income":
+          {
+		      "Interest Income from Saving Bank and Post office deposits":"",
+			  "Other Interest Income: From Fixed deposits etc":""
+		  }	
+         "Other Income":
+          {
+		       "Any Other Income":""
+		  }
+         "Exempt Income":
+          {
+		        "Dividend earned":"",
+				"Exempt Interest Income":"",
+				"Other miscellaneous exempt Income":""
+		  }
+         "Agriculture Income":
+          {
+		       "Gross Agriculture Receipt":"",
+			   "Expenditure On Agriculture":"",
+			   "Unabsorbed Agriculture Loss":""
+		  }		
+         "Dependent Income":
+          {
+		      "Amount":"",
+			  "Name of Person":"",
+			  "Relationship":"",
+			  "Nature of Income":""
+		  }	
+         "PF Withdrawel Income& Tax Rate":
+          {
+		      "PF Amount":"",
+			  "Tax Rate":""
+		  }		 
+	} 
+  "HouseProperty":
+    {
+	    "HouseAddress":
+		 { 
+		     "Flat/Door/Block Number":"",
+			 "Road / Street":"",
+			 "State":"",
+			 "PIN Code":"",
+			 "Area / Locality":"",
+			 "Town / City":"",
+			 "Country":""
+		 }
+	    "Interest paid on Housing Loan":
+		 {
+		     Interest paid on housing loan for Self occupied property:
+			           "Choose Property":"",
+					    "Is there any Housing loan applicable on this property?":"",
+						"Interest paid on loan for self occupied property":""
+			 You may upload housing loan interest certificate here (optional):
+			            "Select your document":""
+		 }
+		"Property Owership":
+         {
+		               "Choose Property":"",
+			           "Is your Property Co-owned?":"",
+			           "Your ownership share of the Property (Percentage %)":""
+			Co-Owner Details
+                        "Name":"",
+                        "PAN No":"",
+						"% Share ":""
+						
+		 }		
+	}
+  "RentelProperty":
+    {
+	  "Property Address":
+	    {
+		  "Flat/Door/Block Number":"",
+		  "Road / Street":"",
+		  "State":"",
+		  "PIN Code":"",
+		  "Area / Locality":"",
+		  "Town / City":"",
+		  "Country":""
+		}
+	   "Income From Rentel Property":
+        {
+		  "Choose Property":"",
+		  "Annual Rent Received by you":"",
+		  "House Tax Paid by you":"",
+		  "Name of Tenant":"",
+		  "PAN of Tenant":""
+		}
+       "Interest Paid On Housing Loan Rentel Property":
+        {
+		       "Choose Property":"",
+		       "Is there any Housing loan applicable on this property?":"",
+		       "Interest paid on loan for Rental property":""
+		  You may upload housing loan interest certificate here (optional)
+                "Select your document":""	   
+		}
+       "Property Owership":
+        {
+		       "Choose Property":"",
+			   "Is your Property Co-owned?":"",
+			   "Your ownership share of the Property (Percentage %)":"",
+		 Co-Owner Details
+               "Name":"",
+                "PAN":"",
+                "% Share":""				
+		}
+       "Unrealized rent":
+        {
+		        "Choose Property":"",
+				"Unrealized Rent Amount":""
+		}	   
+	}
+  "CapitalGain":
+    {
+	 Did you sell any asset (shares, property, house, land, building, etc) between the period of April 1, 2017 to March 31, 2018?
+	        "1. Detail of Sale of Shares/Debentures":"",
+			"2. Detail of Sale of land or building (property)":"",
+			"3. Detail of Sale of any other asset":"",
+			"4. Detail of Sale of Mutual Funds":""
+	}   
+      
+ }
+"Deductions":
+ { 
+  "Section80":
+   {
+    "Upload":
+    {
+	  "SelectYourDocument":"",
+	  "EnterDocumentPassword":""
+	}
+    "Section80C":
+	{
+	  "InvestmentCategoery":"",
+	  "InvestmentAmound":""
+	}
+	"Section80D":
+	{
+	 "Medical Insurance Premium for you, your spouse, or dependent children":"",
+	 "Preventive Health Check-Up fees for you, your spouse, or dependent children":"",
+	 "Medical Insurance Premium for your parents":"",
+	 "Are your parents who hold the policy senior citizens?":""
+	}
+	"Section80TTA":
+	{
+	 "Interest earned on Savings Bank Account":""
+	}
+	"Section80G":
+	{
+	   "DoneeDetails":
+	    {
+		 "NameOfDonee":"",
+		 "DonationAmount":"",
+		 "PANofDonee":"",
+		 "LimitOfDeduction":"",
+		 "QualifyingPercentage":""
+		}
+		"AddressOfDonee":
+		{
+		  "PINcode":"",
+		  "Address":"",
+		  "Town/City":"",
+		  "State":""
+		}
+	}
+ }
+ "MoreDeductions":
+  {
+   "Section 80 CCG":
+     {
+	  "Investment made under Rajiv Gandhi Equity Saving Scheme":""
+	 }
+	"Section 80 E":
+     {
+	   Education Loan on higher studies (Graduate or PostGraduate)
+	          "Interest on higher education loan paid this year":""
+	 }	
+     "Section 80 CCC":
+	 {
+	  "Contribution amount to Pension Plan / Annuity Fund for Section 80CCC":""
+	 }
+	 "Section 80CCD(1),(1B),(2)":
+	 {
+	    Employee Contribution to New Pension Scheme (NPS)
+	          "Contribution towards Section 80CCD(1)":"",
+	    Employer Contribution in NPS
+		      "Employers contribution towards NPS (upto 10% of Salary)":""
+	 }
+	 "Section 80 GG":
+	 {
+	     Deduction for House Rent. Self-employed or Salary with no HRA
+		        "Rent Paid Per Month":"",
+				"Number of Months Rent Paid":""
+	 }
+	 "Section 80DDB":
+	 {
+	    Deductions for treatment of specified diseases and ailments
+		        "Medical Treatment Costs for specified Diseases under Section 80DDB":"",
+		        "Age of person for whom deduction is being claimed":""
+	 }
+	 "Section 80 EE":
+	 { 
+	      Interest on Home Loan
+		        "Deductions under Section 80EE":"" 
+	 }
+	 "Section 80 QQB":
+	 {
+	      Royalty Received on books
+		        "Enter the deduction amount":""
+	 }
+	 "Section 80 RRB":
+	 {
+	       Income on Patents/Inventions
+		         "Enter the deduction amount":""
+	 }
+	 "Section 80 GGA":
+	 {
+	        Contribution To Research or Rural Development
+                 "Contribution to Research & Development or Rural Development":""
+	 }
+	 "Section  80 GGC":
+	 {
+	        Contribution To Political Party
+			       "Contribution or Donations to Political Party":""
+	 }
+  } 
+}
+"TaxPaid":
+{
+  "Upload26As":
+  {
+   "Select your 26AS document":"",
+   "Enter the document password":""
+  }
+  "ChallanDetails":
+  {
+   "BSRcode":"",
+   "DateOfPayment":"",
+   "ChallanSrNo":"",
+   "TaxPaid":""
+  }
+}
+ 
+}

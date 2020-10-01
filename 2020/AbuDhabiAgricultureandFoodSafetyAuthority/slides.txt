@@ -1,0 +1,38 @@
+Slide 0
+
+1. Who are we?
+2. Why we are good at this (very briefly)
+3. Brief intro of presenter and other participants
+4. Thank the audience for the oppurtunity
+
+Project Outcome aka high level objectives
+
+
+
+Project timeline : 3.5 months + 12 months warranty & support
+
+provide warranty & support commercial for 2nd and 3rd year
+
+Slide 1
+Highlevel Objectives
+1. Provide better techical adisory services during farm visits
+2. Help farmers to adopt reccomended practices and innovations
+3. Evaluate and monitor programs and extension staff so that better management decisions can be made to increase farm production & sustainability
+4. Provide extension staff with a unified vision that enables greater productivity in the farms while preserving naturals and promotes sustainability
+5. Assessment and measurement of agricultural sustainability index (44 key indicators)
+
+Slide 2
+Project Scope
+1. Create agricultural product database to manage SES data 
+2. Capture farm visit records using mobile devices that are geo enabled
+3. Mobile device with offline &  active sync capability when online 
+4. Mobile app with intelligent and intutive workflows to capture data
+5. integration with Siebel to manage, farms, farm owners etc
+6. Ensure data security and integrity
+7. Web based Reports and Analytics dashboard  for management
+8. Advice on technology and frameworks that enable scalabality and meet diverse integration requiremnts
+
+Slide 3 Functional Requirments
+Use existing information but suppliment with relevant diagrams.  [ Direct attention to the diagram instead of the bullet points]
+
+

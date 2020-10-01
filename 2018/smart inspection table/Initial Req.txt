@@ -1,0 +1,16 @@
+weight the luggage
+scan passport
+display details of passenger
+integrate with internal system to see passenger history
+display for passenger to see status steps progress of inspection
+record audio and video of process
+assess kpi of inspector and track passenger history
+start light , music based on nationality, holiday etc
+in case of item that is detained, receipt for detained item
+software will record all inspection details
+monitor on inspector with touch screen 
+passenger with touch screen
+one for feedback , happiness meter
+another for display customs  regulation 
+
+inspection, detaining, declaration system

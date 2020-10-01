@@ -1,0 +1,42 @@
+Release Notes
+
+Product: 
+
+ Ministry of Finance (MOF E-Dirham G2) Payment Method Router
+
+
+
+     Main Folder Documents :
+ 
+
+     1- e-Dirham Training Slides
+
+     2- Full Pay-Auth Flow_0.2
+ 
+     3- PaymentRouter-IntegrationDocument 1.0
+
+     4- Payment Method Router - features and workflow
+
+     5- Integarion Plan
+
+    
+
+     Common Folder Documents:
+
+     1- PMR_Technical Data to be passed from Entity to G2 e-Dirham v 1.0
+ 
+     2-	PMR_Technical Data to be passed from G2 e-Dirham to Entity (Production) v 1.0
+     
+     3- PMR_Technical Data to be passed from G2 e-Dirham to Entity (Staging) v 1.0
+
+     4- Organization Details V2.1
+
+     5- Certification Guidelines & UI Best Practices_V1.0
+
+     6- Test Cases and Certification Requirements 1.1
+    
+     7- Entities On-boarding Process for the e-Dirham G2 System v1.4
+
+
+
+

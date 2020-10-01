@@ -1,0 +1,39 @@
+Download and install forticlient VPN client from www.forticlient.com
+
+Add a new connection
+Connection Name: RRCDR VPN (You can specify any name)
+Remote Gateway: webvpn.wrd.ae
+Port: 10443
+Apply the configuration
+Connect the VPN
+
+*********************************************************
+User name | Password
+
+1.	sshabeer  |        vt#123098
+
+Kindly share the password to the respective individuals.
+*********************************************************
+
+Search for mstsc 
+
+Domain Name : rrctest.local
+Domain Controller IP Address: 10.82.91.10
+
+Server details
+Allowed Protocol: RDP
+
+Smart Court Test Server
+            Server Name: TESTSRV-SC01
+            IP Address:       10.82.91.21       (New IP: 10.82.91.22)
+            Username: sctadmin    		(Give the username as rrctest.local\sctadmin)
+            Password: Sc$123123
+
+Time Attendance Server
+            Server Name: TESTSRV-TA01
+            IP Address:       10.82.91.31
+
+10.82.91.10/rrcui
+appadmin1
+1234@asdf
+

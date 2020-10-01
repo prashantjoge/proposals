@@ -1,0 +1,262 @@
+Product Specialist
+Thank you for visiting Zoom. Can I answer any questions?
+prashant thomas
+hello
+
+Shawn Q. joined the chat
+
+Shawn Q.
+hi there
+
+How exactly are you planning on using Zoom?
+prashant thomas
+We would like to integrate zoom into our mobile and web applications to provide a seamless experience to our clients. means no additional downloads
+
+is it possible?
+
+The api page says that this is possible
+
+hello
+
+
+Shawn Q.
+sorry for the delay
+
+yes it is possible
+
+The API plan will allow you to:?  Quickly and easily enable video meetings on your website.?  One click to start or join meetings.?  Create a custom personal, room or meeting ID.  ?Instantly create a number of hosts.?  Generate reports on all users.  ??The monthly prepay plan starts at $100 and includes 4,000 meeting minutes per month. However, if you commit to $500 per month, you will be subscribed at a lower rate.
+prashant thomas
+will the api plan allow me to integrate zoom into our mobile apps
+
+can u be more specific about the $500 plan
+
+we are looking to hold 0ne is to one plans
+
+
+Shawn Q.
+let me pull in support to try and answer
+prashant thomas
+great.... thanks
+
+We are a services company and would like to use Zoom as part of our solution proposal
+
+for a large client in the middle east
+
+Seamless integration with Mobile and desktop is crucial. We were looking at Adobe connect.. but it doesnt seem to meet all of the requirements
+
+BRB in 10 mins
+
+I understand the bandwidth requirements are about 1.4 MB for a one on one session.  Is this true? also does this cascade across for multiples... for ex 2.8 MB for 2 one-on-one sessions
+
+
+Shawn Q.
+those are outlined in this document
+
+im not sure as I'm on the sales team not technical
+
+https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux
+Mahin joined the chat
+
+Mahin
+hello prashant
+
+Shawn Q.
+Prashant's question was around using API to integrate into their mobile app i believe
+prashant thomas
+hi
+
+
+Mahin
+thanks shawn
+prashant thomas
+thats true Shawn
+
+
+Mahin
+is this your question prashant?
+
+I understand the bandwidth requirements are about 1.4 MB for a one on one session. Is this true? also does this cascade across for multiples... for ex 2.8 MB for 2 one-on-one sessions
+prashant thomas
+yes... that was one of the questions. is this true?
+
+
+Mahin
+Recommended bandwidth for Meetings:
+For 1:1 video calling: 600kbps (up/down) for HQ video and 1.2 Mbps (up/down) for HD video
+For group video calling: 600kbps/1.2Mbps (up/down) for HQ video. For gallery view: 1.5Mbps/1.5Mbps (up/down).
+prashant thomas
+Mahin my question is , does this pan out to multiple users... say for example 1.2 MBPS for 2 users using HQ video and audio
+
+
+Mahin
+this applies to every user if that helps.
+prashant thomas
+I was looking for a more authoritative answer than what the blurb says on the site. I read that and I understood what it says... My next question was around integration  with mobile apps. Is it seamless? means if the client installs our custom app.. would they have a seamless experience..or would they still be redirected to the zoom site or prompted to download another app
+
+sorry, if am being blunt, I just need to make sure about the facts before I throw this over to the client and make a solution proposal
+
+
+Mahin
+I do understand but zoom works on dynamic bandwidth, so this are the recomended bandwidth.
+prashant thomas
+k gr8
+
+
+Mahin
+since you are customizing using our api to create the app, no further app is needed from zoom end.
+prashant thomas
+any ideas on the customization effort for a seasoned developer.. say from a scale of 1-10
+
+
+Mahin
+im not from a developer end but as i know it should be pretty straight forward as we have provided most details that required to create using API's .
+prashant thomas
+one last question, can u give me more details about the pricing specificall the $500 /month
+
+this is using API
+
+
+Mahin
+shawn could you help on this?
+
+Mahin
+hang on prashant, im getting sales to help you on that question.
+prashant thomas
+tx
+
+
+Shawn Q.
+what i can do is get you connected to an account executive to discuss that
+
+i can introduce you via email
+
+In order to get you to your personal point of contact, could you provide the following information: Company, HQ location, contact name, phone number, and email address?
+prashant thomas
+if u could just ping someone to get quick answer
+
+Verbat technologies
+
+India'
+
+
+Shawn Q.
+i just did, awaiting reply
+prashant thomas
+Prashant Thomas
+
+
+Shawn Q.
+would you like to formally engage with our sales team though? Sounds liek there is a legitimate project and need
+
+what's the timeline for this project?
+prashant thomas
+we are looking at a 4 month development time line...
+
+Zoom would be the only external integration, but very crucial, since its a one on one tuition application for teachers and students
+
+
+Shawn Q.
+ok
+prashant thomas
+we are thinking 200-300 hours at a minimum per mmonth
+
+
+Shawn Q.
+so you'd get at least 20,000 meeting minutes at least but very likely that will be increased and we can negotiate
+
+would you like for me to make that email intro?
+prashant thomas
+sure
+
+
+Shawn Q.
+ok will do
+
+whats the best number for you?
+prashant thomas
+8086517455
+
+If this person could be slightly technical as well, that would be great
+
+
+Shawn Q.
+sure thing, we can work that out get your questions addressed, no problem
+Mahin left the chat
+prashant thomas
+are u still there? I had one more technical question
+
+
+Shawn Q.
+i can try answering
+prashant thomas
+If I Schedule a meeting for 2 people using the API, How will they join the meeting since they neither of them are the host. My application will be scheduling the meeting for a later time so that 2 people can meet
+
+in real life situations the the host will start the meeting so that the others can join.,. How does this work when using the API
+
+
+Shawn Q.
+let me ask support
+prashant thomas
+please..
+
+Dylan joined the chat
+prashant thomas
+hello
+
+Chat started
+Please wait for an agent. There are 1 visitor(s) waiting to be served.
+prashant thomas
+can someone answer my question
+
+
+Support
+We apologize for keeping you waiting. Our agents are busy at the moment. You can search our knowledgebase at https://support.zoom.us , go to https://support.zoom.us/hc/en-us/requests/new to submit a ticket or continue to wait. Thank you for your patience!
+prashant thomas
+If I Schedule a meeting for 2 people using the API, How will they join the meeting since they neither of them are the host. My application will be scheduling the meeting for a later time so that 2 people can meet
+
+in real life situations the the host will start the meeting so that the others can join.,. How does this work when using the API
+
+Edmond joined the chat
+
+Edmond
+Hi there
+prashant thomas
+can u see my question
+
+
+Edmond
+So when you create and schedule the meeting you will need to have a host
+prashant thomas
+the host will be the application rt? If I am using API services
+
+
+Edmond
+https://support.zoom.us/hc/en-us/articles/201363053-REST-Meeting-API
+prashant thomas
+it doesnt have join meeting
+
+
+Edmond
+to join a meeting the participants need the link. you can select join before host
+
+this will allow the participants to join with out the host
+
+but there will not be any host controls
+prashant thomas
+so the host is not needed to join the meeting?
+
+oh k...
+
+I am talking from an embedded application point of view
+
+so if I am on a mobile device, I would need the chat within my app... this will work rt?
+
+or vdo conferencing
+
+
+Edmond
+to join the meeting on the phone you will need the join via the app
+
+Sorry we did not hear back from you. Please contact us at https://support.zoom.us again! Goodbye.
+Edmond left the chat
+Rate This Chat
