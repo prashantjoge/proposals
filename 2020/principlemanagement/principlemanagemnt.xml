@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2020-10-05T09:15:08.170Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.7" etag="-3sPQJMIhMQqea30llVU" type="google">
+  <diagram id="J80kfnbX9SqDp1Jifo3W">
+    <mxGraphModel dx="1422" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;opacity=70;dashed=1;strokeWidth=2;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="470" height="507" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Web Server" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#3700CC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.application_server;fillColor=#6a00ff;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="221.19" width="48" height="55.81" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="API Server" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#7700CC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.application_server;fillColor=#aa00ff;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="441" y="381" width="48" height="55.81" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Relational DB&lt;br&gt;MSSQL" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#B20000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.deprecated.sql_server_stretch_db;fillColor=#e51400;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Redis" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#fa6800;rounded=0;shadow=0;glass=0;strokeColor=#C73500;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="381" width="48" height="54.32" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Tableu Clients" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffinanceandbusiness.ucdavis.edu%2Fsites%2Fg%2Ffiles%2Fdgvnsk4871%2Ffiles%2Fstyles%2Fsf_landscape_16x9%2Fpublic%2Fimages%2Farticle%2Ftableau_icon.png%3Fh%3Dc673cd1c%26itok%3DYkUJtGl8&amp;f=1&amp;nofb=1;" vertex="1" parent="1">
+          <mxGeometry x="580.36" y="400" width="88.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Reports&lt;br&gt;(PDF / WORD)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/novel-coronavirus-covid-19-virus/65/clipboard_1-128.png;shadow=0;dashed=1;strokeColor=#000000;fillColor=#FFFF00;gradientColor=none;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="600.72" y="232" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="endArrow=none;dashed=1;html=1;fontColor=#000000;" edge="1" source="5" target="6" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="640" as="sourcePoint" />
+            <mxPoint x="280" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="endArrow=none;dashed=1;html=1;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="4" target="6" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="540" as="sourcePoint" />
+            <mxPoint x="220" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="endArrow=none;dashed=1;html=1;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="8" target="3" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="630" as="sourcePoint" />
+            <mxPoint x="270" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="endArrow=none;dashed=1;html=1;fontColor=#000000;exitX=1;exitY=0.62;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="3" target="7" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="750" as="sourcePoint" />
+            <mxPoint x="620" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="256" />
+              <mxPoint x="530" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="" style="endArrow=none;dashed=1;html=1;fontColor=#000000;exitX=0.5;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="3" target="4" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="760" as="sourcePoint" />
+            <mxPoint x="420" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#b0e3e6;strokeColor=#000000;opacity=40;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="145" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Admins" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#f0a30a;strokeColor=#BD7000;aspect=fixed;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="393.03999999999996" y="145" width="20" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Individuals" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#f0a30a;strokeColor=#BD7000;aspect=fixed;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="515" y="145" width="20" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Companies" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#f0a30a;strokeColor=#BD7000;aspect=fixed;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="453.25" y="144" width="20" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Safari, Chrome, Firefox, Edge&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="115" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="endArrow=none;dashed=1;html=1;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="3" target="14" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="150" as="sourcePoint" />
+            <mxPoint x="-10" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
