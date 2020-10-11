@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T16:04:57.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="_fse279Mpel2bJt1fi_d" version="13.7.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-11T16:17:26.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="syWww0RMYi4szeVDgz9J" version="13.7.9" type="github" pages="4">
   <diagram id="KBHiFif3EDbk2IOpcrM9" name="Overall Concept">
     <mxGraphModel dx="1422" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MjFl8TI1UXk6kjYVeYh0" name="BC in Supplychain Details">
-    <mxGraphModel dx="572" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8XErXtqN5ONBi_Akogol-0" />
         <mxCell id="8XErXtqN5ONBi_Akogol-1" parent="8XErXtqN5ONBi_Akogol-0" />
@@ -436,7 +436,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZsuIs_X_d5qQu2Oqjm9L" name="how-blockchain">
-    <mxGraphModel dx="1422" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xeJnlM9Bp-0bgHgTjGUo-0" />
         <mxCell id="xeJnlM9Bp-0bgHgTjGUo-1" parent="xeJnlM9Bp-0bgHgTjGUo-0" />
@@ -537,57 +537,57 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fZmPrniWUeFBykDXkmzA" name="Blockchain-Agriculture disrupter">
-    <mxGraphModel dx="2272" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bJUbQQSx7dtSVjw2ZToe-0" />
         <mxCell id="bJUbQQSx7dtSVjw2ZToe-1" parent="bJUbQQSx7dtSVjw2ZToe-0" />
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=3;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry y="40" width="720" height="480" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=3;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="50" y="40" width="720" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="355" y="40" width="365" height="240" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="405" y="40" width="365" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry y="40" width="360" height="240" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="50" y="40" width="360" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-3" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Enable consumers to verify the traceability of the product&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Hellps to reduce food waste &amp;amp; keep products fresh&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Provide data on when a product was harvested, processed &amp;amp; who produced it&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Provide reliable information on the origin&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Show in which region coffee was harvested&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="-10" y="160" width="260" height="20" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-3" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Enable consumers to verify the traceability of the product&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Hellps to reduce food waste &amp;amp; keep products fresh&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Provide data on when a product was harvested, processed &amp;amp; who produced it&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Provide reliable information on the origin&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Show in which region coffee was harvested&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="40" y="160" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-4" value="Traceability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="160" y="50" width="40" height="20" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-4" value="Traceability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="210" y="50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-6" value="Optimization of Food Supply Chain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="382.5" y="50" width="310" height="20" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-6" value="Optimization of Food Supply Chain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="432.5" y="50" width="310" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-8" value="&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Allow farmers to set the price of the product &amp;amp; optimize the quatities of coffee&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Correct pricing imbalance by recording transactions in real time&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Make it easier for parties to due diligence each other&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Provide upto date supply &amp;amp; demand information to stakeholders&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="450" y="150" width="260" height="20" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-8" value="&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Allow farmers to set the price of the product &amp;amp; optimize the quatities of coffee&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Correct pricing imbalance by recording transactions in real time&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Make it easier for parties to due diligence each other&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Provide upto date supply &amp;amp; demand information to stakeholders&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="500" y="150" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry y="280" width="360" height="240" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="50" y="280" width="360" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-10" value="Crop Insurance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="30" y="290" width="260" height="20" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-10" value="Crop Insurance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="80" y="290" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-11" value="&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;Communicate loads, geo waypoints&amp;nbsp; and basic compliance information with carriers&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Provide more visibility across the supply chain&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Register the parties involved, price, date, location, quantity &amp;amp; state of the product&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Secure insurance documents, DOT numbers &amp;amp; pickup documentation&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="-10" y="390" width="260" height="20" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-11" value="&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;Communicate loads, geo waypoints&amp;nbsp; and basic compliance information with carriers&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Provide more visibility across the supply chain&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Register the parties involved, price, date, location, quantity &amp;amp; state of the product&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Secure insurance documents, DOT numbers &amp;amp; pickup documentation&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="40" y="390" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="359.5" y="280" width="360.5" height="240" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="409.5" y="280" width="360.5" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-13" value="Transactions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="384.75" y="290" width="310" height="20" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-13" value="Transactions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="434.75" y="290" width="310" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-14" value="&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Help farmers to sell coffee, lowering transaction costs&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Prevent price coersion &amp;amp; retroactive payments&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Provide oppurtunity to receive payments &amp;amp; micro-financing&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Provide lower cost and faster payments options to agro-commerce participants&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="460" y="380" width="260" height="20" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-14" value="&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Help farmers to sell coffee, lowering transaction costs&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Prevent price coersion &amp;amp; retroactive payments&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Provide oppurtunity to receive payments &amp;amp; micro-financing&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Provide lower cost and faster payments options to agro-commerce participants&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="510" y="380" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;dashed=1;strokeWidth=2;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="260" y="210" width="200" height="140" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;dashed=1;strokeWidth=2;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="310" y="210" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-16" value="Blockchain in Agriculture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="270" y="220" width="180" height="20" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-16" value="Blockchain in Agriculture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="320" y="220" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bJUbQQSx7dtSVjw2ZToe-17" value="Innovation map on how blockcain based solutions disrupt the agriculture industry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
-          <mxGeometry x="260" y="270" width="200" height="20" as="geometry" />
+        <mxCell id="bJUbQQSx7dtSVjw2ZToe-17" value="Innovation map on how blockcain based solutions disrupt the agriculture industry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
+          <mxGeometry x="310" y="270" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
