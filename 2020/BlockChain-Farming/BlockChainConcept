@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T16:32:57.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="_oZhPfEttXRpvGk5cfJO" version="13.7.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-11T16:34:40.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="3zKPfj_YQvqFCXSUx9mT" version="13.7.9" type="github" pages="4">
   <diagram id="KBHiFif3EDbk2IOpcrM9" name="Overall Concept">
     <mxGraphModel dx="1422" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
           <mxGeometry x="1590" y="280" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-5" value="Initial data + Data on product growth" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1580" y="320" width="120" height="20" as="geometry" />
+          <mxGeometry x="1570" y="320" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.certificate;rounded=0;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;aspect=fixed;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="1425" y="390" width="50" height="49" as="geometry" />
@@ -271,7 +271,7 @@
           <mxGeometry x="1360" y="444" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-8" value="Data on growth +&amp;nbsp; Certifications" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1580" y="430" width="120" height="20" as="geometry" />
+          <mxGeometry x="1570" y="430" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="1590" y="390" width="20" height="20" as="geometry" />
@@ -301,7 +301,7 @@
           <mxGeometry x="1650" y="517" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-19" value="Previous data + transportation data" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1580" y="574" width="120" height="20" as="geometry" />
+          <mxGeometry x="1570" y="574" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/certificate_authority.svg;rounded=0;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="870" y="810" width="60" height="60" as="geometry" />
@@ -328,7 +328,7 @@
           <mxGeometry x="1580" y="820" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-28" value="Previos data + Financial data" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1572" y="985.19" width="120" height="20" as="geometry" />
+          <mxGeometry x="1570" y="993.19" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/shopping-elements-6/64/12-Retail_Shop-128.png;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;align=center;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="870" y="945.19" width="60" height="60" as="geometry" />
@@ -352,7 +352,7 @@
           <mxGeometry x="1580" y="960" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-37" value="Previos data + Certificates + Compliance data" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1570" y="859" width="120" height="20" as="geometry" />
+          <mxGeometry x="1570" y="859" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-39" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="1610" y="960" width="20" height="20" as="geometry" />
@@ -370,7 +370,7 @@
           <mxGeometry x="1360" y="1111" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-52" value="Previos data + Formation of final price" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1570" y="1117" width="120" height="20" as="geometry" />
+          <mxGeometry x="1570" y="1117" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="1580" y="1057" width="20" height="20" as="geometry" />
