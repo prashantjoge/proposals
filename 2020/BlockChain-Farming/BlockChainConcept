@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T07:27:34.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="RIB3IM6qm7EaeXhCFruW" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-11T07:33:22.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="WxoiywzSQ5Wl7h5l1bSx" version="13.7.9" type="github">
   <diagram id="KBHiFif3EDbk2IOpcrM9" name="Page-1">
     <mxGraphModel dx="1422" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fkVeLNQsKBpZFmVweOP3-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;opacity=30;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="280" height="390" as="geometry" />
+          <mxGeometry x="40" y="-70" width="280" height="520" as="geometry" />
         </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;opacity=30;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="60" width="280" height="390" as="geometry" />
+          <mxGeometry x="240" y="-70" width="280" height="520" as="geometry" />
         </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;opacity=30;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="60" width="480" height="390" as="geometry" />
+          <mxGeometry x="440" y="-70" width="480" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="fkVeLNQsKBpZFmVweOP3-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;opacity=50;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;opacity=50;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="40" y="-140" width="880" height="590" as="geometry" />
         </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-1" value="Coffee &lt;br&gt;Farm" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/coffee-store/64/coffee-10-128.png;fontStyle=1" vertex="1" parent="1">
@@ -25,12 +25,6 @@
         <mxCell id="fkVeLNQsKBpZFmVweOP3-3" value="Foreign&#xa;Port" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn0.iconfinder.com/data/icons/energy-supply/68/ship_port_logistics_coal_cargo_vessel-512.png;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fkVeLNQsKBpZFmVweOP3-5" value="Processing" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn2.iconfinder.com/data/icons/beer-25/110/110-512.png;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="640" y="370" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fkVeLNQsKBpZFmVweOP3-6" value="End User" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn0.iconfinder.com/data/icons/hostel/64/Hostel_20-512.png;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="840" y="370" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-14" value="FARMER" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;opacity=30;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="-70" width="280" height="20" as="geometry" />
         </mxCell>
@@ -39,9 +33,6 @@
         </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-16" value="BUYER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="440" y="-70" width="480" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fkVeLNQsKBpZFmVweOP3-17" value="Blockchain" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.blockchain_resource;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="442" y="-130" width="78" height="23" as="geometry" />
         </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-18" value="" style="endArrow=classic;html=1;fontSize=13;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#CC0000;labelBackgroundColor=none;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="fkVeLNQsKBpZFmVweOP3-1" target="fkVeLNQsKBpZFmVweOP3-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -166,7 +157,7 @@
         <mxCell id="fkVeLNQsKBpZFmVweOP3-41" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontSize=13;fontColor=#000000;image=https://cdn2.iconfinder.com/data/icons/fintech-butterscotch-vol-2/512/Internet_of_Things-512.png;" vertex="1" parent="1">
           <mxGeometry x="40" y="70" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fkVeLNQsKBpZFmVweOP3-42" value="IOT -&amp;nbsp; Analyse farming conditions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-42" value="IOT -&amp;nbsp; Analyze farming conditions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-43" value="AI - Optimal condition maintenance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
@@ -180,6 +171,18 @@
         </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-46" value="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Full Stock Traceability&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Proof of Origin&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Clearer Product Recalls&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Confidence of Supply&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;opacity=30;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-50" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-17" value="Blockchain" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.blockchain_resource;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="442" y="-130" width="78" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-6" value="End User" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn0.iconfinder.com/data/icons/hostel/64/Hostel_20-512.png;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="840" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-5" value="Processing" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn2.iconfinder.com/data/icons/beer-25/110/110-512.png;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-47" value="Applying Blockchain in Cofee Farming - Enhancing Efficiency in Supply Chaiin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=15;fontColor=#000000;opacity=30;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="-170" width="576.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
