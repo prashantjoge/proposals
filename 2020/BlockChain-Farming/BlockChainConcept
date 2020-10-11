@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T09:11:04.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="uWh82-QdTkLE49TFqad9" version="13.7.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-11T09:11:31.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="5Tik9JMOcCCfV4vFlmR1" version="13.7.9" type="github" pages="3">
   <diagram id="KBHiFif3EDbk2IOpcrM9" name="Overall Concept">
     <mxGraphModel dx="1422" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,13 +10,13 @@
         <mxCell id="fkVeLNQsKBpZFmVweOP3-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;opacity=20;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="40" y="-150" width="880" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="fkVeLNQsKBpZFmVweOP3-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;opacity=20;fontColor=#ffffff;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;opacity=20;fontColor=#ffffff;dashed=1;dashPattern=1 1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="-70" width="280" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="fkVeLNQsKBpZFmVweOP3-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;opacity=20;fontColor=#ffffff;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;opacity=20;fontColor=#ffffff;dashed=1;dashPattern=1 1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="-70" width="280" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="fkVeLNQsKBpZFmVweOP3-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;opacity=20;fontColor=#ffffff;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;opacity=20;fontColor=#ffffff;dashed=1;dashPattern=1 1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="-70" width="480" height="520" as="geometry" />
         </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-1" value="Coffee &lt;br&gt;Farm" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/coffee-store/64/coffee-10-128.png;fontStyle=1" vertex="1" parent="1">
