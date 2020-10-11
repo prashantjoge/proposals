@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T17:13:14.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="xT_7xWNfLZht9sD5OucK" version="13.7.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-11T17:13:49.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ex0GpST2Beilzg2VYF70" version="13.7.9" type="github" pages="4">
   <diagram id="KBHiFif3EDbk2IOpcrM9" name="Overall Concept">
     <mxGraphModel dx="1422" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -545,7 +545,7 @@
       <root>
         <mxCell id="bJUbQQSx7dtSVjw2ZToe-0" />
         <mxCell id="bJUbQQSx7dtSVjw2ZToe-1" parent="bJUbQQSx7dtSVjw2ZToe-0" />
-        <mxCell id="lHyYgfHzdBaojCUc57J0-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;align=left;image=https://previews.123rf.com/images/martm/martm1707/martm170700029/81606792-hand-drawn-coffee-tree-branch.jpg;opacity=60;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
+        <mxCell id="lHyYgfHzdBaojCUc57J0-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=1;align=left;image=https://previews.123rf.com/images/martm/martm1707/martm170700029/81606792-hand-drawn-coffee-tree-branch.jpg;opacity=50;" vertex="1" parent="bJUbQQSx7dtSVjw2ZToe-1">
           <mxGeometry x="170" y="40" width="480" height="480" as="geometry" />
         </mxCell>
         <mxCell id="bJUbQQSx7dtSVjw2ZToe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;opacity=50;" parent="bJUbQQSx7dtSVjw2ZToe-1" vertex="1">
