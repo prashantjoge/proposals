@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T16:28:48.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="XFJ59pvo8LQiBIPMnfwu" version="13.7.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-11T16:32:57.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="_oZhPfEttXRpvGk5cfJO" version="13.7.9" type="github" pages="4">
   <diagram id="KBHiFif3EDbk2IOpcrM9" name="Overall Concept">
     <mxGraphModel dx="1422" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -265,10 +265,10 @@
           <mxGeometry x="1580" y="320" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.certificate;rounded=0;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;aspect=fixed;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1430" y="390" width="50" height="49" as="geometry" />
+          <mxGeometry x="1425" y="390" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="R8wReqBIp6hWut7ncFvo-7" value="Certification &amp;amp; measurement of conditions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1360" y="450" width="180" height="20" as="geometry" />
+        <mxCell id="R8wReqBIp6hWut7ncFvo-7" value="Certification &amp;amp; measurement of conditions" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
+          <mxGeometry x="1360" y="444" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-8" value="Data on growth +&amp;nbsp; Certifications" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="1580" y="430" width="120" height="20" as="geometry" />
@@ -289,7 +289,7 @@
           <mxGeometry x="960" y="528" width="380" height="14" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-15" value="Track time, data &amp;amp; &lt;br&gt;transport conditions" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flat-ui-icons-24-px/24/time-24-128.png;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;align=center;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1430" y="505" width="50" height="50" as="geometry" />
+          <mxGeometry x="1425" y="505" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="1590" y="517" width="20" height="20" as="geometry" />
@@ -310,10 +310,10 @@
           <mxGeometry x="950" y="830" width="380" height="14" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-22" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.certificate;rounded=0;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;aspect=fixed;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1415" y="810" width="50" height="49" as="geometry" />
+          <mxGeometry x="1425" y="810" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="R8wReqBIp6hWut7ncFvo-23" value="Certificates for import / export" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1350" y="860" width="180" height="20" as="geometry" />
+        <mxCell id="R8wReqBIp6hWut7ncFvo-23" value="Certificates for import / export" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
+          <mxGeometry x="1360" y="864" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="1580" y="800" width="20" height="20" as="geometry" />
@@ -337,7 +337,7 @@
           <mxGeometry x="950" y="966" width="380" height="14" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-31" value="Place QR code on individual packages, create promo materials, enter financial data" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1370" y="963" width="180" height="20" as="geometry" />
+          <mxGeometry x="1360" y="963" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="1580" y="936.19" width="20" height="20" as="geometry" />
@@ -364,10 +364,10 @@
           <mxGeometry x="950" y="1093" width="380" height="14" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/e-commerce-296/46/Barcode-128.png;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;align=left;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1415" y="1057" width="50" height="50" as="geometry" />
+          <mxGeometry x="1425" y="1057" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-44" value="Scan QR code with smart phone" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1360" y="1107" width="180" height="20" as="geometry" />
+          <mxGeometry x="1360" y="1111" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-52" value="Previos data + Formation of final price" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="1570" y="1117" width="120" height="20" as="geometry" />
@@ -397,7 +397,7 @@
           <mxGeometry x="1425" y="170" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-61" value="Barcode marking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1350" y="220" width="180" height="20" as="geometry" />
+          <mxGeometry x="1360" y="220" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-62" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="1590" y="170" width="20" height="20" as="geometry" />
