@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T16:39:30.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Kyw2dvwp-ky4vjAcFJhL" version="13.7.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-11T16:41:34.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="JNvNOHDU6VszLwM-DesG" version="13.7.9" type="github" pages="4">
   <diagram id="KBHiFif3EDbk2IOpcrM9" name="Overall Concept">
     <mxGraphModel dx="1422" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
           <mxGeometry x="1375" y="110" width="205" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rr-syMAohpmUsdnry_qu-4" value="DLT Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1592.5" y="110" width="177.5" height="20" as="geometry" />
+          <mxGeometry x="1593" y="110" width="178" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rr-syMAohpmUsdnry_qu-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/streamline-emoji-1/48/140-woman-farmer-2-128.png;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;align=left;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
           <mxGeometry x="905" y="280" width="60" height="60" as="geometry" />
@@ -421,13 +421,13 @@
           <mxGeometry x="1660" y="1070" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-78" value="Supply Chain Stages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="870" y="733" width="440" height="20" as="geometry" />
+          <mxGeometry x="900" y="733" width="470" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-79" value="Digital Procedures" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1290" y="733" width="257.5" height="20" as="geometry" />
+          <mxGeometry x="1375" y="733" width="205" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R8wReqBIp6hWut7ncFvo-80" value="DLT Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;" parent="8XErXtqN5ONBi_Akogol-1" vertex="1">
-          <mxGeometry x="1560" y="733" width="190" height="20" as="geometry" />
+          <mxGeometry x="1593" y="733" width="178" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
