@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T16:19:15.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ioYmbof4SLhl_qmhZkS3" version="13.7.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-11T16:20:59.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="vwAPoFPGF_yQHVsOQfG3" version="13.7.9" type="github" pages="4">
   <diagram id="KBHiFif3EDbk2IOpcrM9" name="Overall Concept">
     <mxGraphModel dx="1422" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,14 +28,14 @@
         <mxCell id="fkVeLNQsKBpZFmVweOP3-3" value="Foreign&#xa;Port" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn0.iconfinder.com/data/icons/energy-supply/68/ship_port_logistics_coal_cargo_vessel-512.png;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="470" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fkVeLNQsKBpZFmVweOP3-14" value="FARMER" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;opacity=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="40" y="-70" width="280" height="20" as="geometry" />
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-14" value="FARMER" style="text;html=1;strokeColor=#005700;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-70" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fkVeLNQsKBpZFmVweOP3-15" value="INSURER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="240" y="-70" width="280" height="20" as="geometry" />
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-15" value="INSURER" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-70" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fkVeLNQsKBpZFmVweOP3-16" value="BUYER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="440" y="-70" width="480" height="20" as="geometry" />
+        <mxCell id="fkVeLNQsKBpZFmVweOP3-16" value="BUYER" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-70" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-18" value="" style="endArrow=classic;html=1;fontSize=13;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#CC0000;labelBackgroundColor=none;strokeColor=#FF3333;strokeWidth=3;" parent="1" source="fkVeLNQsKBpZFmVweOP3-1" target="fkVeLNQsKBpZFmVweOP3-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -173,7 +173,7 @@
           <mxGeometry x="50" y="-50" width="215" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-46" value="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Full Stock Traceability&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Proof of Origin&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Clearer Product Recalls&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Confidence of Supply&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;opacity=30;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="-50" width="230" height="110" as="geometry" />
+          <mxGeometry x="605" y="-50" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fkVeLNQsKBpZFmVweOP3-17" value="Blockchain Processing" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.blockchain_resource;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="442" y="-130" width="78" height="23" as="geometry" />
