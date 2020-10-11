@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T09:11:31.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="5Tik9JMOcCCfV4vFlmR1" version="13.7.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-11T09:32:35.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="zD7EffNJvoJx-t8tsWWh" version="13.7.9" type="github" pages="3">
   <diagram id="KBHiFif3EDbk2IOpcrM9" name="Overall Concept">
     <mxGraphModel dx="1422" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -301,18 +301,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MjFl8TI1UXk6kjYVeYh0" name="BC in Supplychain Details">
-    <mxGraphModel dx="572" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8XErXtqN5ONBi_Akogol-0" />
         <mxCell id="8XErXtqN5ONBi_Akogol-1" parent="8XErXtqN5ONBi_Akogol-0" />
         <mxCell id="8XErXtqN5ONBi_Akogol-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;align=left;image=https://d3e3a9wpte0df0.cloudfront.net/wp-content/uploads/2020/01/Agricultural-supply-chain-based-on-distributed-ledger-technology.jpg;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
-          <mxGeometry x="1275" y="100" width="741.31" height="978.38" as="geometry" />
+          <mxGeometry x="1680" y="-270" width="741.31" height="978.38" as="geometry" />
         </mxCell>
         <mxCell id="rr-syMAohpmUsdnry_qu-0" value="Supply Chain Stage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
           <mxGeometry x="970" y="60" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rr-syMAohpmUsdnry_qu-2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;farmer collects data on cofee growth (feed, pesticides, moisture, temp, soil, stock conditions, farm location etc.). This data is recorded &amp;amp; verified by DLT&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
-          <mxGeometry x="960" y="160" width="380" height="14" as="geometry" />
+        <mxCell id="rr-syMAohpmUsdnry_qu-2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Farmer&lt;/b&gt; collects data on cofee growth (feed, pesticides, moisture, temp, soil, stock conditions, farm location etc.). This data is recorded &amp;amp; verified by DLT&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="960" y="143" width="380" height="14" as="geometry" />
         </mxCell>
         <mxCell id="rr-syMAohpmUsdnry_qu-3" value="Digital Procedures" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
           <mxGeometry x="1360" y="60" width="190" height="20" as="geometry" />
@@ -322,6 +322,66 @@
         </mxCell>
         <mxCell id="rr-syMAohpmUsdnry_qu-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/streamline-emoji-1/48/140-woman-farmer-2-128.png;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;align=left;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
           <mxGeometry x="880" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-0" value="Processing" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn2.iconfinder.com/data/icons/beer-25/110/110-512.png;fontStyle=1" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="880" y="230" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Processor &lt;/b&gt;places QR code on prckaging of the final product after inspection. The code includes previous data along with compliance certificates&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="960" y="260" width="380" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-2" value="Data Collection of &lt;br style=&quot;font-size: 13px;&quot;&gt;product growth" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-5/512/Code_collect_part_piece_addon_extension_puzzle-128.png;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;align=center;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1425" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1600" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-5" value="Data on growth" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1580" y="180" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.certificate;rounded=0;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;aspect=fixed;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1430" y="230" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-7" value="Certification &amp;amp; measurement of conditions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1360" y="290" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-8" value="Data on growth +&amp;nbsp; Certifications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1570" y="279" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1590" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1620" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.truck_shipment;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;align=center;aspect=fixed;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="880" y="345" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-13" value="2x per&#xa;Week" style="text;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;" vertex="1" parent="R8wReqBIp6hWut7ncFvo-12">
+          <mxGeometry width="36" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-14" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Distributor &lt;/b&gt;stores and transports products to retailors, importers, exporters. Store data on shipment, ETA, Storage conditions, vehicle routes &amp;amp; safety measures&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="960" y="368" width="380" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-15" value="Track time, data &amp;amp; &lt;br&gt;transport conditions" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flat-ui-icons-24-px/24/time-24-128.png;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;align=center;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1430" y="345" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1590" y="357" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1620" y="357" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1650" y="357" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-19" value="Previous data + transportation data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=13;fontColor=#000000;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="1570" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/certificate_authority.svg;rounded=0;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="880" y="460" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8wReqBIp6hWut7ncFvo-21" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Distributor &lt;/b&gt;stores and transports products to retailors, importers, exporters. Store data on shipment, ETA, Storage conditions, vehicle routes &amp;amp; safety measures&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=18;fontColor=#000000;" vertex="1" parent="8XErXtqN5ONBi_Akogol-1">
+          <mxGeometry x="960" y="480" width="380" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
