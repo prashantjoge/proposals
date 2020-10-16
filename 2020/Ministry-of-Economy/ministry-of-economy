@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T13:44:13.885Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="3cRr_KRVGal6o9feNjWx" version="13.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-16T13:44:40.828Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="FRTcCiufCYzW1fSk1HVD" version="13.8.0" type="github" pages="2">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="SgbFrs33exGUb5Nyefdt-8" value="User Engagment" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=center;html=1;image=https://cdn1.iconfinder.com/data/icons/digital-marketing-and-technology-4/512/916_engagement_user_user_engagement_marketing-512.png;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
           <mxGeometry x="110" y="1670" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgbFrs33exGUb5Nyefdt-12" value="&lt;ul&gt;&lt;li&gt;First IMpressions&lt;/li&gt;&lt;li&gt;Clean design creates trust&lt;/li&gt;&lt;li&gt;Design personality creates identity&lt;/li&gt;&lt;li&gt;Users forgive pretty things&lt;/li&gt;&lt;li&gt;Relaxation Improves Usability&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+        <mxCell id="SgbFrs33exGUb5Nyefdt-12" value="&lt;ul&gt;&lt;li&gt;First Impressions&lt;/li&gt;&lt;li&gt;Clean design creates trust&lt;/li&gt;&lt;li&gt;Design personality creates identity&lt;/li&gt;&lt;li&gt;Users forgive pretty things&lt;/li&gt;&lt;li&gt;Relaxation Improves Usability&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
           <mxGeometry x="650" y="1540" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SgbFrs33exGUb5Nyefdt-14" value="&lt;ul&gt;&lt;li&gt;Valuable&lt;/li&gt;&lt;li&gt;Accessible&lt;/li&gt;&lt;li&gt;Intentional&lt;/li&gt;&lt;li&gt;Intutive&lt;/li&gt;&lt;li&gt;Invisible&lt;/li&gt;&lt;li&gt;Beautiful&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
