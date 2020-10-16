@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T11:34:24.509Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="RInOytpmSk-qY2mx1yR0" version="13.8.0" type="github">
-  <diagram id="QMm5qwKa7Ktoc2P77r8G" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-10-16T13:44:13.885Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="3cRr_KRVGal6o9feNjWx" version="13.8.0" type="github" pages="2">
+  <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -69,6 +69,62 @@
         </mxCell>
         <mxCell id="bSMJajeT9FhqTedcSU62-32" value="&lt;ul&gt;&lt;li&gt;Zen desk&lt;/li&gt;&lt;li&gt;UAE Pass&lt;/li&gt;&lt;li&gt;Twilio / Send Grid&lt;/li&gt;&lt;li&gt;SMS&lt;/li&gt;&lt;li&gt;e-Dirham&lt;/li&gt;&lt;li&gt;Khadamati&lt;/li&gt;&lt;li&gt;E-Participation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;spacing=6;spacingTop=2;spacingBottom=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="580" width="280" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0OLFUdD1QzllVVL7albP" name="design principles">
+    <mxGraphModel dx="2272" dy="-336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-0" />
+        <mxCell id="SgbFrs33exGUb5Nyefdt-1" parent="SgbFrs33exGUb5Nyefdt-0" />
+        <mxCell id="SgbFrs33exGUb5Nyefdt-10" value="&lt;ul&gt;&lt;li&gt;Reduce Cognitive Load&lt;/li&gt;&lt;li&gt;Over-simplify functionality&lt;/li&gt;&lt;li&gt;Build the road to Go-back&lt;/li&gt;&lt;li&gt;Clarify call-to-action&lt;/li&gt;&lt;li&gt;Allow for user skill levels&lt;/li&gt;&lt;li&gt;Manage Errors&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="305" y="1150" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-21" value="UI/UX Design Principles" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=15;opacity=80;fontStyle=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="310" y="1110" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-24" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;shadow=1;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#666666;fillColor=#f5f5f5;fontSize=15;opacity=80;align=left;gradientColor=#b3b3b3;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="130" y="1280" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-13" value="&lt;ul&gt;&lt;li&gt;Card sorting&lt;/li&gt;&lt;li&gt;Contextual Interviews&lt;/li&gt;&lt;li&gt;First click testing&lt;/li&gt;&lt;li&gt;FOcus groups&lt;/li&gt;&lt;li&gt;Expert review&lt;/li&gt;&lt;li&gt;interviews&lt;/li&gt;&lt;li&gt;Parallel designs&lt;/li&gt;&lt;li&gt;User personas&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="300" y="1890" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-7" value="User Research" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=center;html=1;image=https://static.thenounproject.com/png/2406279-200.png;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="375" y="1800" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-3" value="User Data" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/digital-marketing-27/64/Consumer-magnify-human-search-find-resource-128.png;shadow=0;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=left;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="375" y="1510" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-17" value="&lt;ul&gt;&lt;li&gt;Data for user personas&lt;/li&gt;&lt;li&gt;Design Task models&lt;/li&gt;&lt;li&gt;Redesign UX&lt;/li&gt;&lt;li&gt;Heuristic evaluation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="310" y="1610" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-9" value="Analytics" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=center;html=1;image=https://cdn4.iconfinder.com/data/icons/gray-user-management/512/audience_trends-512.png;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="110" y="1380" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-4" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;User Behaviour&lt;/span&gt;&lt;/div&gt;" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=center;html=1;image=https://cdn2.iconfinder.com/data/icons/online-marketing-butterscotch-vol-2/512/Users_Flow-512.png;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="380" y="1250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-5" value="Target Audience" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=center;html=1;image=https://cdn0.iconfinder.com/data/icons/seo-and-internet-marketing-set-2/100/Target_Audiences-512.png;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="650" y="1380" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-6" value="User Attraction" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=center;html=1;image=https://cdn.iconscout.com/icon/premium/png-256-thumb/attracting-customer-1892076-1602498.png;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="650" y="1670" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-8" value="User Engagment" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=center;html=1;image=https://cdn1.iconfinder.com/data/icons/digital-marketing-and-technology-4/512/916_engagement_user_user_engagement_marketing-512.png;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="110" y="1670" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-12" value="&lt;ul&gt;&lt;li&gt;First IMpressions&lt;/li&gt;&lt;li&gt;Clean design creates trust&lt;/li&gt;&lt;li&gt;Design personality creates identity&lt;/li&gt;&lt;li&gt;Users forgive pretty things&lt;/li&gt;&lt;li&gt;Relaxation Improves Usability&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="650" y="1540" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-14" value="&lt;ul&gt;&lt;li&gt;Valuable&lt;/li&gt;&lt;li&gt;Accessible&lt;/li&gt;&lt;li&gt;Intentional&lt;/li&gt;&lt;li&gt;Intutive&lt;/li&gt;&lt;li&gt;Invisible&lt;/li&gt;&lt;li&gt;Beautiful&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="-10" y="1550" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-11" value="&lt;ul&gt;&lt;li&gt;Goal &amp;amp; Purpose&lt;/li&gt;&lt;li&gt;Demographics&lt;/li&gt;&lt;li&gt;Values&lt;/li&gt;&lt;li&gt;Communication&lt;/li&gt;&lt;li&gt;Industry Standards&lt;/li&gt;&lt;li&gt;Inclusive Design&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="575" y="1260" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-16" value="&lt;ul&gt;&lt;li&gt;Usage statistics&lt;/li&gt;&lt;li&gt;Flow maps&lt;/li&gt;&lt;li&gt;Funnel analytics&lt;/li&gt;&lt;li&gt;Heatmap analytics&lt;/li&gt;&lt;li&gt;REal-time analytics&lt;/li&gt;&lt;li&gt;Session mapping&lt;/li&gt;&lt;li&gt;A/B testing&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="35" y="1260" width="210" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
