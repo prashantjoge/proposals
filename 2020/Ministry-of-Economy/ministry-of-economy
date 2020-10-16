@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T17:43:01.988Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="b4-gkZrm0YpU25ifuzcy" version="13.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-16T18:35:01.990Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="53Mf62qDPO9vxQC6pJU3" version="13.8.0" type="github" pages="3">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,6 +134,87 @@
       <root>
         <mxCell id="6o4CEPm0cuOq2buz5QPi-0" />
         <mxCell id="6o4CEPm0cuOq2buz5QPi-1" parent="6o4CEPm0cuOq2buz5QPi-0" />
+        <mxCell id="UDWUMRlEY72FvSMy73bM-0" value="About&amp;nbsp; Ministry" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=15;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="40" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-2" value="Vision &amp;amp; MIssion" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=14;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="80" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-3" value="Ministry Competencies" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=14;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="80" y="130" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-4" value="Minister Word" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=14;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="80" y="170" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-5" value="Minister Biography" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=14;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="80" y="210" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-6" value="Ministry Sectors" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=14;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="80" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-7" value="Laws &amp;amp; Regulations" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=14;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="80" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-8" value="Ministry Mandate" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="250" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-9" value="Org. Structure" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="420" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-10" value="Policies" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="250" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-12" value="Ministers" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="590" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-13" value="Minister of Economy" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=12;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="610" y="130" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-14" value="Minister of State - SME" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=12;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="610" y="160" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-15" value="Minister of State - Foreign Trade" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=12;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="610" y="190" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-18" value="Minister Office" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="250" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-21" value="Undersecretory for trade &amp;amp;&amp;nbsp; Industry" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="420" y="290" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-22" value="Foreign Trade" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="650" y="290" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-23" value="Commercial Affairs" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="660" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-24" value="Industrial Affairs" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="250" y="330" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-25" value="Support Services" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="370" y="330" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-26" value="Intellectual Properties" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="510" y="330" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-27" value="Ministry Services" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=15;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="40" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-28" value="e-Services" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="80" y="450" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-29" value="Business Name Availability Search" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="80" y="490" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-30" value="Commodities Monitoring" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="80" y="530" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-31" value="Services Guide" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="80" y="570" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-32" value="Inquire National Economic Register" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=13;opacity=80;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="80" y="610" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
