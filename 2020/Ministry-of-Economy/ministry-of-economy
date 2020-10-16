@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T13:44:40.828Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="FRTcCiufCYzW1fSk1HVD" version="13.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-16T14:10:06.948Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="9NxSyxp7eTJH3_Ik2-HA" version="13.8.0" type="github" pages="2">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,10 +81,7 @@
         <mxCell id="SgbFrs33exGUb5Nyefdt-10" value="&lt;ul&gt;&lt;li&gt;Reduce Cognitive Load&lt;/li&gt;&lt;li&gt;Over-simplify functionality&lt;/li&gt;&lt;li&gt;Build the road to Go-back&lt;/li&gt;&lt;li&gt;Clarify call-to-action&lt;/li&gt;&lt;li&gt;Allow for user skill levels&lt;/li&gt;&lt;li&gt;Manage Errors&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
           <mxGeometry x="305" y="1150" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SgbFrs33exGUb5Nyefdt-21" value="UI/UX Design Principles" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=15;opacity=80;fontStyle=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
-          <mxGeometry x="310" y="1110" width="180" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SgbFrs33exGUb5Nyefdt-24" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;shadow=1;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#666666;fillColor=#f5f5f5;fontSize=15;opacity=80;align=left;gradientColor=#b3b3b3;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+        <mxCell id="SgbFrs33exGUb5Nyefdt-24" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=15;opacity=80;align=left;strokeWidth=2;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
           <mxGeometry x="130" y="1280" width="550" height="550" as="geometry" />
         </mxCell>
         <mxCell id="SgbFrs33exGUb5Nyefdt-13" value="&lt;ul&gt;&lt;li&gt;Card sorting&lt;/li&gt;&lt;li&gt;Contextual Interviews&lt;/li&gt;&lt;li&gt;First click testing&lt;/li&gt;&lt;li&gt;FOcus groups&lt;/li&gt;&lt;li&gt;Expert review&lt;/li&gt;&lt;li&gt;interviews&lt;/li&gt;&lt;li&gt;Parallel designs&lt;/li&gt;&lt;li&gt;User personas&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
@@ -125,6 +122,9 @@
         </mxCell>
         <mxCell id="SgbFrs33exGUb5Nyefdt-16" value="&lt;ul&gt;&lt;li&gt;Usage statistics&lt;/li&gt;&lt;li&gt;Flow maps&lt;/li&gt;&lt;li&gt;Funnel analytics&lt;/li&gt;&lt;li&gt;Heatmap analytics&lt;/li&gt;&lt;li&gt;REal-time analytics&lt;/li&gt;&lt;li&gt;Session mapping&lt;/li&gt;&lt;li&gt;A/B testing&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
           <mxGeometry x="35" y="1260" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SgbFrs33exGUb5Nyefdt-21" value="UI/UX Design Principles" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=15;opacity=80;fontStyle=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="315" y="1400" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
