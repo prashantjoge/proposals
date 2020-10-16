@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T14:10:06.948Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="9NxSyxp7eTJH3_Ik2-HA" version="13.8.0" type="github" pages="2">
-  <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website features">
-    <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-10-16T17:43:01.988Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="b4-gkZrm0YpU25ifuzcy" version="13.8.0" type="github" pages="3">
+  <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
+    <mxGraphModel dx="1422" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,8 +73,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="0OLFUdD1QzllVVL7albP" name="design principles">
-    <mxGraphModel dx="2272" dy="-336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="0OLFUdD1QzllVVL7albP" name="design-principles">
+    <mxGraphModel dx="2272" dy="-400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SgbFrs33exGUb5Nyefdt-0" />
         <mxCell id="SgbFrs33exGUb5Nyefdt-1" parent="SgbFrs33exGUb5Nyefdt-0" />
@@ -90,7 +90,7 @@
         <mxCell id="SgbFrs33exGUb5Nyefdt-7" value="User Research" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=center;html=1;image=https://static.thenounproject.com/png/2406279-200.png;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
           <mxGeometry x="375" y="1800" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgbFrs33exGUb5Nyefdt-3" value="User Data" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/digital-marketing-27/64/Consumer-magnify-human-search-find-resource-128.png;shadow=0;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=left;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+        <mxCell id="SgbFrs33exGUb5Nyefdt-3" value="User Data" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/digital-marketing-27/64/Consumer-magnify-human-search-find-resource-128.png;shadow=0;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=left;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
           <mxGeometry x="375" y="1510" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgbFrs33exGUb5Nyefdt-17" value="&lt;ul&gt;&lt;li&gt;Data for user personas&lt;/li&gt;&lt;li&gt;Design Task models&lt;/li&gt;&lt;li&gt;Redesign UX&lt;/li&gt;&lt;li&gt;Heuristic evaluation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
@@ -126,6 +126,14 @@
         <mxCell id="SgbFrs33exGUb5Nyefdt-21" value="UI/UX Design Principles" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=15;opacity=80;fontStyle=1;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
           <mxGeometry x="315" y="1400" width="180" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3ocL9DSSK79919ydnQDa" name="Information-Architecture">
+    <mxGraphModel dx="1422" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="6o4CEPm0cuOq2buz5QPi-0" />
+        <mxCell id="6o4CEPm0cuOq2buz5QPi-1" parent="6o4CEPm0cuOq2buz5QPi-0" />
       </root>
     </mxGraphModel>
   </diagram>
