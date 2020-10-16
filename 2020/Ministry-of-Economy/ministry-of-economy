@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T19:53:23.803Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="yMNPADDGixHCD0mmyjAG" version="13.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-16T20:12:01.172Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="QG2UOaxCvnx_pwOK22PG" version="13.8.0" type="github" pages="3">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,6 +134,12 @@
       <root>
         <mxCell id="6o4CEPm0cuOq2buz5QPi-0" />
         <mxCell id="6o4CEPm0cuOq2buz5QPi-1" parent="6o4CEPm0cuOq2buz5QPi-0" />
+        <mxCell id="UDWUMRlEY72FvSMy73bM-116" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#36393d;strokeWidth=2;fillColor=#cdeb8b;fontSize=14;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1220" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-117" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#36393d;strokeWidth=2;fillColor=#cdeb8b;fontSize=14;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1225" y="650" width="100" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="UDWUMRlEY72FvSMy73bM-73" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#36393d;strokeWidth=2;fillColor=#cdeb8b;fontSize=12;align=center;opacity=50;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
           <mxGeometry x="73" y="709" width="175" height="51" as="geometry" />
         </mxCell>
@@ -188,8 +194,8 @@
         <mxCell id="UDWUMRlEY72FvSMy73bM-12" value="Ministers" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
           <mxGeometry x="595" y="120" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UDWUMRlEY72FvSMy73bM-13" value="Minister of Economy" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
-          <mxGeometry x="615" y="160" width="190" height="20" as="geometry" />
+        <mxCell id="UDWUMRlEY72FvSMy73bM-13" value="Article" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1230" y="415" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UDWUMRlEY72FvSMy73bM-14" value="Minister of State - SME" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=12;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
           <mxGeometry x="615" y="190" width="190" height="20" as="geometry" />
@@ -407,6 +413,75 @@
         </mxCell>
         <mxCell id="UDWUMRlEY72FvSMy73bM-95" value="Media Section" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#001DBC;strokeWidth=2;fillColor=#0050ef;fontSize=15;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
           <mxGeometry x="880" y="355" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-96" value="News" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="920" y="410" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-97" value="Events" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="920" y="450" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-98" value="Publications" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="920" y="490" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-99" value="Press Kit" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="920" y="535" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-100" value="Product Recall" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="920" y="580" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-101" value="Economy Magazine" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="920" y="650" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-102" value="Initiatives" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="920" y="690" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-103" value="News Items" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1090" y="410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-104" value="Events" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1090" y="450" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-105" value="Event" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1230" y="455" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-106" value="Publications" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1090" y="490" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-107" value="PDF" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1230" y="495" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-109" value="Vehicles" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1090" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-110" value="Electronics" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1230" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-111" value="Health &amp;amp; Safety" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1370" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-112" value="News" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1510" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-113" value="Recall Article (Template)" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1090" y="620" width="550" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-114" value="Magazines" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1090" y="650" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-115" value="PDF" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1230" y="655" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-118" value="Year of Giving" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1090" y="690" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-119" value="Year of Reading" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1230" y="690" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-120" value="Year of Innovation" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1370" y="690" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDWUMRlEY72FvSMy73bM-121" value="Arabic Content Templates" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1090" y="730" width="410" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
