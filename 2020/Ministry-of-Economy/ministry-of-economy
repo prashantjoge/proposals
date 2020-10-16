@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T11:29:02.887Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="M3TSUTP70qsQfbmDk6LG" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T11:34:14.331Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="xmx-rI7VYm7KAHSplRud" version="13.8.0" type="github">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="Page-1">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bSMJajeT9FhqTedcSU62-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;shadow=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="45" y="60" width="760" height="650" as="geometry" />
+        <mxCell id="bSMJajeT9FhqTedcSU62-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;shadow=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="44" y="59" width="760" height="771" as="geometry" />
         </mxCell>
         <mxCell id="bSMJajeT9FhqTedcSU62-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=14;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="30" width="140" height="20" as="geometry" />
@@ -20,16 +20,16 @@
           <mxGeometry x="81.5" y="100" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bSMJajeT9FhqTedcSU62-7" value="&lt;ul&gt;&lt;li&gt;Mobile First, Arabic First&lt;/li&gt;&lt;li&gt;UI Kit&lt;/li&gt;&lt;li&gt;Design Paradigms for Form State, Notifications, Search, Sort &amp;amp; Filtering&lt;/li&gt;&lt;li&gt;2 UI options for design templates&lt;/li&gt;&lt;li&gt;2 additional color themes&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;spacingTop=2;spacing=6;spacingBottom=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="242" width="280" height="110" as="geometry" />
+          <mxGeometry x="80" y="221" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bSMJajeT9FhqTedcSU62-8" value="Implementation Considerations" style="text;html=1;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontStyle=1;fontColor=#ffffff;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="222" width="280" height="20" as="geometry" />
+          <mxGeometry x="80" y="201" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bSMJajeT9FhqTedcSU62-9" value="Production Environment" style="text;html=1;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontStyle=1;fontColor=#ffffff;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="375" width="280" height="20" as="geometry" />
+          <mxGeometry x="80" y="343" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bSMJajeT9FhqTedcSU62-10" value="&lt;ul&gt;&lt;li&gt;.Net Core 3.1&lt;/li&gt;&lt;li&gt;CMS&lt;/li&gt;&lt;li&gt;Angular 10&lt;/li&gt;&lt;li&gt;NodeJS&lt;/li&gt;&lt;li&gt;Kestrel&lt;/li&gt;&lt;li&gt;MSSQL&lt;/li&gt;&lt;li&gt;Ubuntu or Centos&lt;/li&gt;&lt;li&gt;Redis&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;spacingTop=2;spacing=6;spacingBottom=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="391" width="280" height="134" as="geometry" />
+          <mxGeometry x="80" y="359" width="280" height="134" as="geometry" />
         </mxCell>
         <mxCell id="bSMJajeT9FhqTedcSU62-11" value="DevOps" style="text;html=1;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontStyle=1;fontColor=#ffffff;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="320" height="20" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="440" y="252" width="320" height="76" as="geometry" />
         </mxCell>
         <mxCell id="bSMJajeT9FhqTedcSU62-15" value="* Versions older than 5 years will not be supported for all browser categories&lt;br&gt;&lt;div&gt;&lt;span&gt;** Versions of OS that are retired, will be unsupported&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;*** Busy pages with large amount of content may not render accurately on Mobile devices&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;*** Languages considered - Arabic, English, French, Urdu&lt;/span&gt;&lt;/div&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="610" width="684.5" height="80" as="geometry" />
+          <mxGeometry x="75.5" y="720" width="684.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bSMJajeT9FhqTedcSU62-16" value="Assistive Technologies" style="text;html=1;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontStyle=1;fontColor=#ffffff;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="342" width="320" height="20" as="geometry" />
@@ -59,10 +59,16 @@
           <mxGeometry x="440" y="527" width="320" height="69" as="geometry" />
         </mxCell>
         <mxCell id="bSMJajeT9FhqTedcSU62-22" value="Deployment" style="text;html=1;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontStyle=1;fontColor=#ffffff;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="556" width="280" height="20" as="geometry" />
+          <mxGeometry x="80" y="504" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bSMJajeT9FhqTedcSU62-23" value="On-Premises" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;spacing=6;spacingTop=2;spacingBottom=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="577" width="280" height="20" as="geometry" />
+          <mxGeometry x="80" y="524" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bSMJajeT9FhqTedcSU62-31" value="Integrations" style="text;html=1;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontStyle=1;fontColor=#ffffff;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bSMJajeT9FhqTedcSU62-32" value="&lt;ul&gt;&lt;li&gt;Zen desk&lt;/li&gt;&lt;li&gt;UAE Pass&lt;/li&gt;&lt;li&gt;Twilio / Send Grid&lt;/li&gt;&lt;li&gt;SMS&lt;/li&gt;&lt;li&gt;e-Dirham&lt;/li&gt;&lt;li&gt;Khadamati&lt;/li&gt;&lt;li&gt;E-Participation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;spacing=6;spacingTop=2;spacingBottom=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="580" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
