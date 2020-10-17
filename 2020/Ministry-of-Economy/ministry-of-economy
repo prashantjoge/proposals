@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T10:47:08.073Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="y2twnObtNvTWQYOFXeqH" version="13.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-17T11:01:57.456Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="0S17Q8Q_ehP-f4fF1pSR" version="13.8.0" type="github" pages="3">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3ocL9DSSK79919ydnQDa" name="Information-Architecture">
-    <mxGraphModel dx="1422" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6o4CEPm0cuOq2buz5QPi-0" />
         <mxCell id="6o4CEPm0cuOq2buz5QPi-1" parent="6o4CEPm0cuOq2buz5QPi-0" />
@@ -424,7 +424,7 @@
           <mxGeometry x="1460" y="200" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDWUMRlEY72FvSMy73bM-89" value="External Links" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#36393d;strokeWidth=2;fillColor=#cdeb8b;fontSize=14;align=center;opacity=50;" parent="6o4CEPm0cuOq2buz5QPi-1" vertex="1">
-          <mxGeometry x="1520" y="10" width="160" height="30" as="geometry" />
+          <mxGeometry x="1520" y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDWUMRlEY72FvSMy73bM-90" value="Web-Site Survey" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;align=center;fontStyle=1" parent="6o4CEPm0cuOq2buz5QPi-1" vertex="1">
           <mxGeometry x="1110" y="240" width="160" height="30" as="geometry" />
@@ -580,16 +580,16 @@
           <mxGeometry x="880" y="1290" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-0" value="Main Menu" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#001DBC;strokeWidth=2;fillColor=#0050ef;fontSize=15;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
-          <mxGeometry x="895" width="200" height="40" as="geometry" />
+          <mxGeometry x="895" y="20" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-1" value="Sub-Menu" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
-          <mxGeometry x="1110" y="5" width="160" height="30" as="geometry" />
+          <mxGeometry x="1110" y="25" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-2" value="Surveys" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
-          <mxGeometry x="1292.5" y="5" width="160" height="30" as="geometry" />
+          <mxGeometry x="1292.5" y="25" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-3" value="Article" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
-          <mxGeometry x="1370" y="50" width="80" height="20" as="geometry" />
+          <mxGeometry x="1370" y="70" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-4" value="Investment Portal" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
           <mxGeometry x="1047.5" y="1290" width="160" height="30" as="geometry" />
@@ -929,6 +929,51 @@
         </mxCell>
         <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-127" value="GSFTA" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
           <mxGeometry x="620" y="1770" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-128" value="Terms &amp;amp; Abbrevations" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="880" y="2560" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-129" value="Sustainable Development Goals" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="880" y="2600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-130" value="Trade Promotions" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1047.5" y="2605" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-131" value="&lt;span&gt;Introduction&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=11;align=center;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1097.5" y="2650" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-132" value="&lt;span&gt;Goal 8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=11;align=center;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1100" y="2680" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-133" value="Role of ministry to acheive Goal 8" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=10;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1217.5" y="2680" width="182.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-134" value="&lt;span&gt;SDG-9&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=11;align=center;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1100" y="2710" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-135" value="Contribution to Goal 9" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=10;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1220" y="2710" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-136" value="Acheivements of IP Sector" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=11;align=center;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1100" y="2750" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-137" value="Acheivements of National SME Prog" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=11;align=center;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1100" y="2790" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-138" value="Acheivements of National Tourism" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=11;align=center;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1097.5" y="2830" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-139" value="Foreign Trade Sector" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=11;align=center;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1100" y="2870" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-140" value="Corporate Social Responsibility" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=11;align=center;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1100" y="2910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-141" value="Publications" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=11;align=center;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1100" y="2950" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-142" value="Minister of Economy" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontSize=12;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="615" y="160" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
