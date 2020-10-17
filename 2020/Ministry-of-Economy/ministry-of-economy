@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T08:50:29.487Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="pGtW8OVdbcw0Ra68S_z2" version="13.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-17T08:51:17.160Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="JzWj4UAyLPDzwULv1pz8" version="13.8.0" type="github" pages="3">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -716,6 +716,9 @@
         </mxCell>
         <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-50" value="&lt;span&gt;Custum Form&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=10;align=center;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
           <mxGeometry x="1385" y="2065" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-51" value="COVID-19 Portal" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1390" y="1700" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
