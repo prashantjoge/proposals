@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T13:49:36.833Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Ge5PyrQaJUdGIob3Gp1O" version="13.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-17T13:51:08.292Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="cW2XgiBTTvJqPEdogars" version="13.8.0" type="github" pages="3">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1240,14 +1240,17 @@
         <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-234" value="Portal Login" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeWidth=2;fontSize=15;align=center;fontStyle=1;strokeColor=#001DBC;fillColor=#0050ef;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
           <mxGeometry x="880" y="3125" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-235" value="Customer Login" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
-          <mxGeometry x="930" y="3180" width="160" height="30" as="geometry" />
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-235" value="Customer Login (UAE PASS)" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="930" y="3180" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-236" value="Customer Signup" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
-          <mxGeometry x="930" y="3220" width="160" height="30" as="geometry" />
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-236" value="Customer Signup (UAE PASS)" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="930" y="3220" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-237" value="Employee Login" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontSize=14;opacity=80;align=center;fontStyle=1" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
           <mxGeometry x="930" y="3260" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vJQ-wxJ_Vl8qET9NJmj-238" value="Forgot Password" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="6o4CEPm0cuOq2buz5QPi-1">
+          <mxGeometry x="1140" y="3180" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
