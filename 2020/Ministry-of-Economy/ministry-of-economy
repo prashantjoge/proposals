@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T23:07:13.523Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="uw-g6lByInrj7N9MuAmN" version="13.8.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-10-18T23:07:29.507Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="LQQ6ItN8CRcDnd3rvxCX" version="13.8.0" type="github" pages="14">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4279,6 +4279,9 @@
         </mxCell>
         <mxCell id="gC3R_CkWlPDFix8H56JI-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry x="730" y="42.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gC3R_CkWlPDFix8H56JI-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="490" y="1007.5" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
