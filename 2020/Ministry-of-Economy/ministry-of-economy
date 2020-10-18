@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T10:50:05.469Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="llXdyHo6MUBWMCrtiosc" version="13.8.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-10-18T11:03:44.262Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="dAEEU6Bn1VgApG99rGBE" version="13.8.0" type="github" pages="11">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -678,7 +678,7 @@
         <mxCell id="GFwMgVqQrFFkD-jjTjPp-0" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;fontSize=14;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="Zn1zdLa6Pz5JDpr3V22U-1">
           <mxGeometry x="100" y="750" width="860" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="GFwMgVqQrFFkD-jjTjPp-1" value="CMS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;fontSize=14;fontColor=#000000;opacity=50;fontStyle=1" vertex="1" parent="Zn1zdLa6Pz5JDpr3V22U-1">
+        <mxCell id="GFwMgVqQrFFkD-jjTjPp-1" value="CMS Web Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;fontSize=14;fontColor=#000000;opacity=50;fontStyle=1" vertex="1" parent="Zn1zdLa6Pz5JDpr3V22U-1">
           <mxGeometry x="100" y="770" width="850" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GFwMgVqQrFFkD-jjTjPp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;fontSize=14;fontColor=#000000;opacity=50;" vertex="1" parent="Zn1zdLa6Pz5JDpr3V22U-1">
@@ -2985,6 +2985,71 @@
         </mxCell>
         <mxCell id="Z9DQ_iaHTpEyy6IsW2ig-81" value="MemCache" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.memcached;fillColor=#2E73B8;gradientColor=none;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#000000;fontSize=14;fontColor=#000000;opacity=50;" vertex="1" parent="Z9DQ_iaHTpEyy6IsW2ig-1">
           <mxGeometry x="-735.25" y="458" width="60" height="63" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O1vyFRG2o_9WJHjajb5Q" name="Arch-explanation">
+    <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-0" />
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-1" parent="v9Hvhcl6RMcz2oqddByX-0" />
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="414" y="560" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="22.5" y="560" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="421" y="300" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="22.5" y="300" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="424" y="8" width="350" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="29" y="8" width="350" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-8" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Distributed memory cache&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;Free &amp;amp; Open Source&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;On-Prem&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;MIlli-second response&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Session / Web Page / API caching&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Simple&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=14;horizontal=1;fontStyle=0" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="414" y="610" width="336" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-9" value="Memcached" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="438" y="570" width="92" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-10" value="Varnish Cache" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="40" y="10" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-11" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Open Source&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;HTTP Accelerator&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Caching HTTP Reverse Proxy&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Cached responses in microseconds&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;HTTP Response Header Cache-Control&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Compress content&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Reduce strain on webserver&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Can be used as WAF (Web Application Firewall)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="15" y="44" width="384" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-12" value="&lt;ul&gt;&lt;li&gt;Optimize bandwidth through compression&lt;/li&gt;&lt;li&gt;&lt;span&gt;Supports performance &amp;amp; Capacity&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;WAF protects from cross site forgery /&amp;nbsp; scripting, SQL Injection&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="15" y="193" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-13" value="High Availability (HA) Proxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="424" y="10" width="218" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-14" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Open Source&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;High Availability Load Balancer&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Layer 4 TCP and Layer 7 HTTP&amp;nbsp; load balancer&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;URL rewriting&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Rate Limiting&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GZIP Compression&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;SSL / TLS Termination&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;DOS DDOS Mitigation&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Request Queuing&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="411" y="75" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-15" value="Identity Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="436" y="330" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-16" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Open Source&lt;/b&gt;&amp;nbsp;&lt;b&gt;Federation Gateway&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;On Premises&lt;/b&gt;&lt;/li&gt;&lt;li&gt;OpenID Certified&lt;/li&gt;&lt;li&gt;Part of .net Foundation&lt;/li&gt;&lt;li&gt;OAuth 2.0 Framework&lt;/li&gt;&lt;li&gt;SAML 2.0 through Plugin&lt;/li&gt;&lt;li&gt;Single Sign On&lt;/li&gt;&lt;li&gt;Authentication as a service&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="411" y="361" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-17" value="MINIO Object Store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="40" y="322" width="154.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-18" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Open Source&lt;/b&gt; &lt;b&gt;Amazon s3&lt;/b&gt; equivalent&lt;/li&gt;&lt;li&gt;&lt;b&gt;On Premises&lt;/b&gt;&lt;/li&gt;&lt;li&gt;High-performance Object Store&lt;/li&gt;&lt;li&gt;Born on the principles of web-scale&lt;/li&gt;&lt;li&gt;Cloud-native&lt;/li&gt;&lt;li&gt;Open source object store that is enterprise-ready&lt;/li&gt;&lt;li&gt;Amazon&amp;nbsp; S3 compatible&lt;/li&gt;&lt;li&gt;Near-zero system admin tasks&lt;/li&gt;&lt;/ul&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="15" y="362" width="365" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-19" value="Lucene.NET" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="40" y="570" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9Hvhcl6RMcz2oqddByX-20" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;span&gt;Open source&lt;/span&gt; search engine&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;On Premises&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Best results returned first&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Fielded Seraching&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Sorting by any field&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Simultaneous Update &amp;amp; Search&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Small RAM Requirments&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;C# Based&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Same performance as Java based Lucene&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
+          <mxGeometry x="15" y="620" width="345" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
