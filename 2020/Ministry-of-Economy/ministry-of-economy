@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T14:35:56.679Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="cNps3Y8a6t2FOcv2FUyV" version="13.8.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-10-18T14:38:49.444Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="DP4bcOAHGlfXUftPXaNb" version="13.8.0" type="github" pages="13">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3094,8 +3094,11 @@
         <mxCell id="5OpXY6QZw_rFIjQHQPIX-5" value="On Premises Install" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;opacity=70;fontStyle=1;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;" vertex="1" parent="Z9DQ_iaHTpEyy6IsW2ig-1">
           <mxGeometry x="-240" y="10" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5OpXY6QZw_rFIjQHQPIX-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontSize=14;fontColor=#000000;opacity=50;align=center;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Matomo_Logo.svg/1200px-Matomo_Logo.svg.png;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;" vertex="1" parent="Z9DQ_iaHTpEyy6IsW2ig-1">
-          <mxGeometry x="-584.75" y="254" width="94.54" height="16" as="geometry" />
+        <mxCell id="5OpXY6QZw_rFIjQHQPIX-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontSize=14;fontColor=#000000;align=center;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Matomo_Logo.svg/1200px-Matomo_Logo.svg.png;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;" vertex="1" parent="Z9DQ_iaHTpEyy6IsW2ig-1">
+          <mxGeometry x="-579.75" y="254" width="94.54" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="t8IjYMg-zYVPRncrCgok-0" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=16;fontColor=#000000;align=center;image=https://cdn0.iconfinder.com/data/icons/icocentre-free-icons/171/f-analytics2_128-512.png;" vertex="1" parent="Z9DQ_iaHTpEyy6IsW2ig-1">
+          <mxGeometry x="-551.23" y="275" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3139,7 +3142,7 @@
           <mxGeometry x="15" y="193" width="370" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v9Hvhcl6RMcz2oqddByX-13" value="High Availability (HA) Proxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
-          <mxGeometry x="424" y="10" width="236" height="20" as="geometry" />
+          <mxGeometry x="438" y="10" width="236" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v9Hvhcl6RMcz2oqddByX-14" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Open Source&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;High Availability Load Balancer&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Layer 4 TCP and Layer 7 HTTP&amp;nbsp; load balancer&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;URL rewriting&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Rate Limiting&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GZIP Compression&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;SSL / TLS Termination&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;DOS DDOS Mitigation&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Request Queuing&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;" vertex="1" parent="v9Hvhcl6RMcz2oqddByX-1">
           <mxGeometry x="411" y="75" width="380" height="100" as="geometry" />
