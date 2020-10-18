@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T15:41:51.881Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="1QEFLLXTAFL66FLuKF_1" version="13.8.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-10-18T15:42:12.535Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="2MHnigxHo2ogroTBgaVc" version="13.8.0" type="github" pages="13">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1156,7 +1156,7 @@
         <mxCell id="L0LkmkRNbyschW71cvy0-1" value="Revised Information Architecture (Tentative)" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;strokeWidth=1;fillColor=#647687;fontFamily=inconsolata;fontSize=16;opacity=50;align=center;fontStyle=1;strokeColor=none;" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
           <mxGeometry x="20" y="130" width="820" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hTWGDCYLS5KojVf-o0_S-0" value="The information architecture depicted is a conceptual view based on the assumption that large parts of the application can be self managed using the newly proposed CMS solution. The actual architecture shall be uncovered only after understanding the user journey, user personnas etc." style="text;html=1;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;shadow=1;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;sketch=0;strokeColor=#314354;glass=0;fontColor=#FFFFFF;" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
+        <mxCell id="hTWGDCYLS5KojVf-o0_S-0" value="The information architecture depicted is a conceptual view based on the assumption that large parts of the application can be self managed using the newly proposed CMS solution. The actual architecture shall be uncovered only after understanding the user journey, user personas etc." style="text;html=1;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;shadow=1;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;sketch=0;strokeColor=#314354;glass=0;fontColor=#FFFFFF;" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
           <mxGeometry x="40" y="950" width="760" height="80" as="geometry" />
         </mxCell>
       </root>
