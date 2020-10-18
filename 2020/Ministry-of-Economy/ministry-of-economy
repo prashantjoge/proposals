@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T15:25:07.807Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="hNc1WsMK0UcNBLoDqOmY" version="13.8.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-10-18T15:36:06.311Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Ipo7Nf2zhwRRszoSdM66" version="13.8.0" type="github" pages="13">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -986,13 +986,13 @@
         <mxCell id="TnOdpbIRCGDRoOYL0gMP-23" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#001DBC;fillColor=#0050ef;fontSize=14;fontColor=#ffffff;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
           <mxGeometry x="525" y="620" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TnOdpbIRCGDRoOYL0gMP-24" value="Dashboards" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#005700;fillColor=#008a00;fontSize=14;fontColor=#ffffff;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
+        <mxCell id="TnOdpbIRCGDRoOYL0gMP-24" value="Dashboards" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#005700;fillColor=#008a00;fontSize=14;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1;" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
           <mxGeometry x="525" y="620" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TnOdpbIRCGDRoOYL0gMP-25" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#B09500;fillColor=#e3c800;fontSize=14;fontColor=#000000;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
           <mxGeometry x="525" y="650" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TnOdpbIRCGDRoOYL0gMP-26" value="FAQ" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#005700;fillColor=#008a00;fontSize=14;fontColor=#ffffff;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
+        <mxCell id="TnOdpbIRCGDRoOYL0gMP-26" value="FAQ" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#005700;fillColor=#008a00;fontSize=14;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1;" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
           <mxGeometry x="525" y="650" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TnOdpbIRCGDRoOYL0gMP-27" value="Dynamic pages" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#001DBC;fillColor=#0050ef;fontSize=14;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
