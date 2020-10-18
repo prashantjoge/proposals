@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T22:12:05.996Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="TW7w08brEOASv7hL0a_R" version="13.8.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-10-18T22:25:14.266Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="TSOCLYgD9iJP19yQzHef" version="13.8.0" type="github" pages="14">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3672,7 +3672,7 @@
           <mxGeometry x="250" y="1228" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zsscUqR7g1NWAJPww8UF-122" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
-          <mxGeometry x="980" y="870" width="20" height="20" as="geometry" />
+          <mxGeometry x="850" y="337.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zsscUqR7g1NWAJPww8UF-123" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry x="250" y="1348" width="20" height="20" as="geometry" />
@@ -3687,16 +3687,16 @@
           <mxGeometry x="250" y="1273" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zsscUqR7g1NWAJPww8UF-135" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
-          <mxGeometry x="990" y="910" width="20" height="20" as="geometry" />
+          <mxGeometry x="850" y="737" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zsscUqR7g1NWAJPww8UF-136" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
-          <mxGeometry x="1000" y="890" width="20" height="20" as="geometry" />
+          <mxGeometry x="850" y="762" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zsscUqR7g1NWAJPww8UF-137" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
-          <mxGeometry x="1010" y="880" width="20" height="20" as="geometry" />
+          <mxGeometry x="850" y="487.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zsscUqR7g1NWAJPww8UF-138" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
-          <mxGeometry x="1020" y="890" width="20" height="20" as="geometry" />
+          <mxGeometry x="850" y="687" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zsscUqR7g1NWAJPww8UF-139" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry x="250" y="1373" width="20" height="20" as="geometry" />
@@ -3749,7 +3749,7 @@
         <mxCell id="zsscUqR7g1NWAJPww8UF-167" value="Audit Trail" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=inconsolata;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry y="1150.5" width="200" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="zsscUqR7g1NWAJPww8UF-170" value="Event Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=inconsolata;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+        <mxCell id="zsscUqR7g1NWAJPww8UF-170" value="Events &amp;amp; Hooks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=inconsolata;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry y="585" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zsscUqR7g1NWAJPww8UF-171" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/freeapplication/png/24x24/Close.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
@@ -4037,14 +4037,11 @@
         <mxCell id="HIQywoNmPSIeFj7MMQLq-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry x="250" y="837.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HIQywoNmPSIeFj7MMQLq-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/developer-set-3/128/code-128.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
-          <mxGeometry x="960" y="667" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="HIQywoNmPSIeFj7MMQLq-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry x="370" y="840" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HIQywoNmPSIeFj7MMQLq-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essentials-pack/96/code_coding_html_css_programming-128.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
-          <mxGeometry x="330" y="840" width="20" height="20" as="geometry" />
+          <mxGeometry x="405" y="842.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HIQywoNmPSIeFj7MMQLq-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry x="850" y="1593" width="20" height="20" as="geometry" />
@@ -4078,6 +4075,63 @@
         </mxCell>
         <mxCell id="HIQywoNmPSIeFj7MMQLq-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/math-business-icon-set/93/1_8-128.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry x="210" y="687" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="512.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="437.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="412.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="1128" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essentials-pack/96/code_coding_html_css_programming-128.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="415" y="587.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essentials-pack/96/code_coding_html_css_programming-128.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="290" y="587.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essentials-pack/96/code_coding_html_css_programming-128.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="890" y="587.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="787.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-36" value="Search" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="712" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="362.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="312.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="287" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="387.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="462.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="933" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="958" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="983" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gradient-runded-glowing-icons/128/right_correct.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="1008" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HIQywoNmPSIeFj7MMQLq-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/freeapplication/png/24x24/Close.png;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=14;fontColor=#FFFFFF;align=center;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="850" y="1058" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
