@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T14:46:36.081Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="lbNoiko8S4aS3cWiVc-Q" version="13.8.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-10-18T14:49:41.855Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="vqqiAyEG62RZeOSs-HZf" version="13.8.0" type="github" pages="13">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,9 +105,6 @@
         <mxCell id="SgbFrs33exGUb5Nyefdt-9" value="Analytics" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=center;html=1;image=https://cdn4.iconfinder.com/data/icons/gray-user-management/512/audience_trends-512.png;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" parent="SgbFrs33exGUb5Nyefdt-1" vertex="1">
           <mxGeometry x="110" y="1380" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgbFrs33exGUb5Nyefdt-4" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;User Behaviour&lt;/span&gt;&lt;/div&gt;" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=center;html=1;image=https://cdn2.iconfinder.com/data/icons/online-marketing-butterscotch-vol-2/512/Users_Flow-512.png;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" parent="SgbFrs33exGUb5Nyefdt-1" vertex="1">
-          <mxGeometry x="380" y="1250" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="SgbFrs33exGUb5Nyefdt-5" value="Target Audience" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=14;align=center;html=1;image=https://cdn0.iconfinder.com/data/icons/seo-and-internet-marketing-set-2/100/Target_Audiences-512.png;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" parent="SgbFrs33exGUb5Nyefdt-1" vertex="1">
           <mxGeometry x="650" y="1380" width="60" height="60" as="geometry" />
         </mxCell>
@@ -129,11 +126,14 @@
         <mxCell id="SgbFrs33exGUb5Nyefdt-16" value="&lt;ul&gt;&lt;li&gt;Usage statistics&lt;/li&gt;&lt;li&gt;Flow maps&lt;/li&gt;&lt;li&gt;Funnel analytics&lt;/li&gt;&lt;li&gt;Heatmap analytics&lt;/li&gt;&lt;li&gt;REal-time analytics&lt;/li&gt;&lt;li&gt;Session mapping&lt;/li&gt;&lt;li&gt;A/B testing&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;sketch=1;glass=0;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" parent="SgbFrs33exGUb5Nyefdt-1" vertex="1">
           <mxGeometry x="35" y="1260" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SgbFrs33exGUb5Nyefdt-21" value="UI/UX Design Principles" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=15;opacity=80;fontStyle=1;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;" parent="SgbFrs33exGUb5Nyefdt-1" vertex="1">
-          <mxGeometry x="315" y="1400" width="180" height="20" as="geometry" />
+        <mxCell id="SgbFrs33exGUb5Nyefdt-21" value="UI/UX Design Principles" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=17;opacity=80;fontStyle=1;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;" parent="SgbFrs33exGUb5Nyefdt-1" vertex="1">
+          <mxGeometry x="310" y="1380" width="205" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SgbFrs33exGUb5Nyefdt-17" value="&lt;ul&gt;&lt;li&gt;Data for user personas&lt;/li&gt;&lt;li&gt;Design Task models&lt;/li&gt;&lt;li&gt;Redesign UX&lt;/li&gt;&lt;li&gt;Heuristic evaluation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;labelBackgroundColor=none;fontSize=14;dashed=1;sketch=1;fillColor=#f5f5f5;fontColor=#333333;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" parent="SgbFrs33exGUb5Nyefdt-1" vertex="1">
           <mxGeometry x="310" y="1595" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oqNTZqvK-iLcIR6m_JzD-0" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontFamily=inconsolata;fontSize=17;fontColor=#000000;align=center;image=https://cdn0.iconfinder.com/data/icons/data-science-1-2/66/10-512.png;" vertex="1" parent="SgbFrs33exGUb5Nyefdt-1">
+          <mxGeometry x="375" y="1260" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
