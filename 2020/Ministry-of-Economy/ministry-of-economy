@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T14:30:59.822Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="jGjFokgn7K7E3tYYqL2x" version="13.8.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-10-18T14:34:58.074Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="8YWgusiU3gMrjoiOJQ3Z" version="13.8.0" type="github" pages="13">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -906,12 +906,12 @@
         <mxCell id="TODZRpf0LgWgfPgklnpe-0" />
         <mxCell id="TODZRpf0LgWgfPgklnpe-1" parent="TODZRpf0LgWgfPgklnpe-0" />
         <mxCell id="Ni345XOvI-RCXi9LzmU3-9" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;fillColor=#eeeeee;fontSize=14;strokeColor=none;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
-          <mxGeometry x="15" y="160" width="820" height="800" as="geometry" />
+          <mxGeometry x="15" y="130" width="820" height="830" as="geometry" />
         </mxCell>
         <mxCell id="TnOdpbIRCGDRoOYL0gMP-0" value="Home" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#36393d;fillColor=#ffcc99;fontSize=14;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
           <mxGeometry x="365" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TnOdpbIRCGDRoOYL0gMP-1" value="Foorter" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#B09500;fillColor=#e3c800;fontSize=14;fontColor=#000000;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
+        <mxCell id="TnOdpbIRCGDRoOYL0gMP-1" value="Footer" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#B09500;fillColor=#e3c800;fontSize=14;fontColor=#000000;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
           <mxGeometry x="45.5" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TnOdpbIRCGDRoOYL0gMP-2" value="Static pages editable by CMS" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#B09500;fillColor=#e3c800;fontSize=14;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontStyle=1" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
@@ -1153,6 +1153,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="L0LkmkRNbyschW71cvy0-1" value="Revised Information Architecture" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=1;strokeWidth=1;fillColor=#647687;fontFamily=inconsolata;fontSize=16;opacity=50;align=center;fontStyle=1;strokeColor=none;" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
+          <mxGeometry x="20" y="130" width="820" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1226,7 +1229,7 @@
         <mxCell id="kQAgxEfJC7kHNs6dONxu-10" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeWidth=2;fillColor=#eeeeee;fontSize=12;align=center;strokeColor=none;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;" vertex="1" parent="kQAgxEfJC7kHNs6dONxu-1">
           <mxGeometry x="880" y="130" width="750" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="kQAgxEfJC7kHNs6dONxu-11" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeWidth=2;fillColor=#eeeeee;fontSize=12;align=center;strokeColor=none;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;" vertex="1" parent="kQAgxEfJC7kHNs6dONxu-1">
+        <mxCell id="kQAgxEfJC7kHNs6dONxu-11" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeWidth=2;fillColor=#f5f5f5;fontSize=12;align=center;strokeColor=#666666;opacity=40;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;fontColor=#333333;" vertex="1" parent="kQAgxEfJC7kHNs6dONxu-1">
           <mxGeometry x="880" y="340" width="790" height="430" as="geometry" />
         </mxCell>
         <mxCell id="kQAgxEfJC7kHNs6dONxu-12" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#36393d;strokeWidth=2;fillColor=#cdeb8b;fontSize=14;align=center;fontFamily=inconsolata;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dinconsolata;" vertex="1" parent="kQAgxEfJC7kHNs6dONxu-1">
