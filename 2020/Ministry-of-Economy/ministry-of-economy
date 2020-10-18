@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T09:09:53.917Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="20uV6h4z4BXFRoVRuVAn" version="13.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-18T09:11:17.436Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="EDt5PEV4zR6OnMt6NmwY" version="13.8.0" type="github" pages="7">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
         <mxCell id="ekR2KKnii3LjbtLH99---2" value="Frameworks" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=14;fontStyle=1;labelBackgroundColor=#ffffff;" vertex="1" parent="buqqDwjVIFyKw3Gzr0me-1">
           <mxGeometry x="170" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekR2KKnii3LjbtLH99---3" value="Orchard Core" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=14;fontStyle=1;labelBackgroundColor=none;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="buqqDwjVIFyKw3Gzr0me-1">
+        <mxCell id="ekR2KKnii3LjbtLH99---3" value="MS CMS Core" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=14;fontStyle=1;labelBackgroundColor=none;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="buqqDwjVIFyKw3Gzr0me-1">
           <mxGeometry y="70" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ekR2KKnii3LjbtLH99---4" value="Piranha" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=14;fontStyle=1;labelBackgroundColor=#ffffff;" vertex="1" parent="buqqDwjVIFyKw3Gzr0me-1">
