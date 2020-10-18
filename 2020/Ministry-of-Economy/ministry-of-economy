@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T09:03:41.227Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="PCvF-3RI8oKYcwgZKoSc" version="13.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-18T09:06:47.393Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="gaFSzz33-FL-ifAWcRIL" version="13.8.0" type="github" pages="7">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -674,6 +674,12 @@
       <root>
         <mxCell id="TODZRpf0LgWgfPgklnpe-0" />
         <mxCell id="TODZRpf0LgWgfPgklnpe-1" parent="TODZRpf0LgWgfPgklnpe-0" />
+        <mxCell id="Ni345XOvI-RCXi9LzmU3-9" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
+          <mxGeometry x="10" y="320" width="820" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni345XOvI-RCXi9LzmU3-10" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;dashed=1;labelBackgroundColor=none;sketch=1;strokeColor=#36393d;fillColor=#f9f7ed;fontSize=14;" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
+          <mxGeometry x="10" y="620" width="820" height="500" as="geometry" />
+        </mxCell>
         <mxCell id="TODZRpf0LgWgfPgklnpe-5" value="https://docs.orchardcore.net/en/dev/&lt;br&gt;https://docs.orchardcore.net/projects/O1/en/latest/&lt;br&gt;https://github.com/OrchardCMS&lt;br&gt;https://orchardskills.com/&lt;br&gt;https://www.cofoundry.org/docs&lt;br&gt;http://orchardcollaboration.com/installation-and-quick-overview&lt;br&gt;https://oasisorchard.azurewebsites.net/orchard-cms" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=14;strokeColor=none;align=left;" vertex="1" parent="TODZRpf0LgWgfPgklnpe-1">
           <mxGeometry x="500" y="10" width="350" height="110" as="geometry" />
         </mxCell>
