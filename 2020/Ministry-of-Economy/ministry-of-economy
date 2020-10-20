@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T20:14:56.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="uuH_NjmxvmEgfKILyDdY" version="13.8.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-10-20T23:09:22.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="u35LmdYZuEJU1wL8xjvk" version="13.8.0" type="github" pages="14">
   <diagram id="QMm5qwKa7Ktoc2P77r8G" name="website-features">
     <mxGraphModel dx="1422" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3411,10 +3411,10 @@
           <mxGeometry x="50" y="460" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XUelmySSh7-lse9oI8j--5" value="Inline Document Vewer: Microsoft&amp;nbsp; office documents cannot be inline as it may require licensed plugins form Microsoft" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
-          <mxGeometry x="80" y="490" width="510" height="20" as="geometry" />
+          <mxGeometry x="190" y="430" width="510" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XUelmySSh7-lse9oI8j--6" value="Personalization: Advanced personalizations are subject to review and feasability of implementation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
-          <mxGeometry x="70" y="510" width="510" height="20" as="geometry" />
+          <mxGeometry x="180" y="480" width="510" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XUelmySSh7-lse9oI8j--7" value="Form Builder: Advanced form builder features depends on the CMS being implemented. Paid and licenced CMS tend to accomodate this feature, but there are no guarantees. Usually there is some development activity that precedes the activation / implementation of a new feature in form builder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry x="80" y="530" width="710" height="40" as="geometry" />
@@ -3495,7 +3495,7 @@
           <mxGeometry x="120" y="1280" width="530" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XUelmySSh7-lse9oI8j--35" value="Verbat shall not develop the content pieces for the topics. However we can develop the creatives" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
-          <mxGeometry x="930" y="1290" width="40" height="20" as="geometry" />
+          <mxGeometry x="940" y="1360" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XUelmySSh7-lse9oI8j--36" value="Content pieces for topics needs to be provided by the client to develop the creatives. We are assuming that content pieces are text material describing the topic. If this is part of an SEO activity, we may be able to help. But not as part of development." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry x="120" y="1340" width="480" height="20" as="geometry" />
@@ -3503,8 +3503,14 @@
         <mxCell id="XUelmySSh7-lse9oI8j--37" value="Statement of Work Project Plan Communication Management Plan Risk Management Plan Quality Management Plan Human Resource Plan Project Documentations and should be approved from MOE team:o BRS - Business Requirements Specificationo Functional Requirement Specificationo Integration documento Security Requirements and Designo System Architecture Documento Technical System Support Document14o Technical Design documento Trouble shooting guideo Quick reference guideo Final deliverable sign-off sheeto UAT test scenarios (Arabic &amp; English)o Test cases , defects , Test reports /results of all type of test (funaction, performance ,compatability)o User Manuals in both Arabic &amp; English languageso Training material Handover technical document &amp; sessions Latest source code – must be validated by MOE IT team" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry x="540" y="120" width="550" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="t6PHAXV47ekbwkxgv-Zu-0" value="The client shall provide or develop all assosiated API&#39;s for the services. Verbat shall develop the API&#39;s for the CMS platform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+        <mxCell id="t6PHAXV47ekbwkxgv-Zu-0" value="The client shall provide / develop / customize all assosiated API&#39;s for the web services. Verbat shall develop the API&#39;s for the CMS platform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
           <mxGeometry x="130" y="1400" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t6PHAXV47ekbwkxgv-Zu-1" value="Once the templates for the site has been designed and developed, client shall be responsible for creating the content for all template related pages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="135" y="1450" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t6PHAXV47ekbwkxgv-Zu-2" value="The time frame for the scope of work is heavily dependent on the choice of CMS platform the client decides to implement. We can expect&amp;nbsp; to complete the web site redesign if the client chooses to implement a proprietory platform like sitefinity. The effort and estimate quoted shall vary if the client chooses to adopt an open source platform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zsscUqR7g1NWAJPww8UF-1">
+          <mxGeometry x="130" y="1500" width="480" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
